@@ -19,7 +19,7 @@ Documentation about a experience connecting a PLC to cloud (OT/IT).
 * Software for writing the example image on the SD card, e.g. Win32 Disk Imager
 * Software for SSH access, e.g. PuTTY
 * Software for SFTP/SCP file transfer, e.g. WinSCP
-* SIMATIC IOT2000 controller, e.g. IOT2040 with MicroSD Card and IO-Shield
+* SIMATIC IOT2000 controller, e.g. IOT2040 with MicroSD Card and IO-Shield https://support.industry.siemens.com/cs/document/109741799/imagen-ejemplo-para-la-sd-card-de-un-simatic-iot2020-iot2040?dti=0&lc=es-AR.
 * Ethernet connection between the engineering station and controller
 * SIMATIC IOT2000EDU Software Controller executable on IOT2020 and IOT2040
 
