@@ -14,15 +14,14 @@ Documentation about a experience connecting a PLC to cloud (OT/IT).
 
 ## Hardware and software required
 
-1.- Engineering Station: Requirements are hardware and operating system
-(for additional information, see Readme on the TIA Portal Installation DVDs)
-2.- SIMATIC STEP 7 Professional software in TIA Portal V15 or higher
-3.- Software for writing the example image on the SD card, e.g. Win32 Disk Imager
-4.- Software for SSH access, e.g. PuTTY
-5.- Software for SFTP/SCP file transfer, e.g. WinSCP
-6.- SIMATIC IOT2000 controller, e.g. IOT2040 with MicroSD Card and IO-Shield
-7.- Ethernet connection between the engineering station and controller
-8.- SIMATIC IOT2000EDU Software Controller executable on IOT2020 and IOT2040
+* Engineering Station: Requirements are hardware and operating system (for additional information, see Readme on the TIA Portal Installation DVDs)
+* SIMATIC STEP 7 Professional software in TIA Portal V15 or higher
+* Software for writing the example image on the SD card, e.g. Win32 Disk Imager
+* Software for SSH access, e.g. PuTTY
+* Software for SFTP/SCP file transfer, e.g. WinSCP
+* SIMATIC IOT2000 controller, e.g. IOT2040 with MicroSD Card and IO-Shield
+* Ethernet connection between the engineering station and controller
+* SIMATIC IOT2000EDU Software Controller executable on IOT2020 and IOT2040
 
 
 # Reference
