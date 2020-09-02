@@ -1,7 +1,9 @@
 # Industria 4.0 - Internet_of_Things
-Documentation about a experience connecting a PLC to cloud (OT/IT).
+Documentation about me experience connecting a PLC to cloud (OT/IT).
 
-# SimaticIOT2000
+# SIEMENS S7-1200
+
+# Simatic IOT2000
 
 ## Some Details
 
