@@ -1,7 +1,22 @@
 # Industria 4.0 - Internet_of_Things
 Documentation about me experience connecting a PLC to cloud (OT/IT).
 
-# SIEMENS S7-1200
+# Simatic S7-1200
+
+## Some Details
+
+- RAM memory 100 [kB] (work)
+- ROM memory 4 [MB]
+- Remmant memory 10 [kB]
+- E/S local integrated 14E/10S (Discret)
+- 2E/2S (Analog)
+- Image memory of process 1024 [bytes]
+- Labels area 8192 [bytes]
+- Ampliation Slots of signals module 8
+- Ampliation Slots of comunication module 3
+- High counters (HSC) 6
+- Pulse generators 4
+- PROFINET ports 2 (Ethernet)
 
 # Simatic IOT2000
 
