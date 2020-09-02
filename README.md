@@ -1,4 +1,4 @@
-# Industria 4.0 - Internet_of_Things
+# Industrial Internet_of_Things
 Documentation about me experience connecting a PLC to cloud (OT/IT).
 
 # Simatic S7-1200
