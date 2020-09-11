@@ -1,6 +1,12 @@
 # Industrial Internet_of_Things
 Documentation about me experience connecting a PLC to cloud (OT/IT).
 
+# Achitecture
+
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/architecture_ITOT.png" width="200" align="center"/>
+</div>
+
 # Software
 
 ## Node-Red
