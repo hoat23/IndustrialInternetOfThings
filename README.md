@@ -1,10 +1,22 @@
-# Industrial Internet_of_Things
+# Industrial Internet of Things
 Documentation about me experience connecting a PLC to cloud (OT/IT).
 
 # Achitecture
 
+
+The Siemens IOT2040 module is the one that allows to link the industrial plant to the cloud, for security reasons it will only send data to the cloud, but it will leave the control of the industrial processes to the internal PLC.
+
+Elasticsearch is a non-relational database, which will store the data sent from the industrial plant. 
+
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/architecture_ITOT.png" width="600" align="center"/>
+</div>
+
+Kibana or Power BI is used to generate reports, some examples of generated dashboards are:
+
+
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/iiot-canvas-dashboards-blog.gif" width="600" align="center"/>
 </div>
 
 # Software
