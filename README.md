@@ -1,9 +1,34 @@
 # Industrial Internet_of_Things
 Documentation about me experience connecting a PLC to cloud (OT/IT).
 
-# Simatic S7-1200
+# Software
 
-## Some Details
+## Node-Red
+
+### Installing in Windows 
+
+* Download and install nodejs from: https://nodejs.org/en/
+* Check version using this command: node -v
+
+### Remove from windows
+* Run this command: npm cache clean --force
+* Uninstall from Programs & Features with the uninstaller.
+* Reboot (or you probably can get away with killing all node-related processes from Task Manager). Look for these folders and remove them (and their contents) if any still exist. Depending on the version you installed, UAC settings, and CPU architecture, these may or may not exist:
+  * C:\Program Files (x86)\Nodejs
+  * C:\Program Files\Nodejs
+  * C:\Users\{User}\AppData\Roaming\npm (or %appdata%\npm)
+  * C:\Users\{User}\AppData\Roaming\npm-cache (or %appdata%\npm-cache)
+  * C:\Users\{User}\.npmrc (and possibly check for that without the . prefix too)
+  * C:\Users\{User}\AppData\Local\Temp\npm-*
+  * Check your %PATH% environment variable to ensure no references to Nodejs or npm exist.
+* If it's still not uninstalled, type where node at the command prompt and you'll see where it resides -- delete that (and probably the parent directory) too.
+* Reboot, for good measure.
+
+# Hardware
+
+## Simatic S7-1200
+
+### Some Details
 
 - RAM memory 100 [kB] (work)
 - ROM memory 4 [MB]
@@ -18,9 +43,9 @@ Documentation about me experience connecting a PLC to cloud (OT/IT).
 - Pulse generators 4
 - PROFINET ports 2 (Ethernet)
 
-# Simatic IOT2000
+## Simatic IOT2000
 
-## Some Details
+### Some Details
 
 - MicroSD card is needed for the operating system with a minimun of 2GBytes.
 - Connection for the power supply (24 V).
@@ -29,7 +54,7 @@ Documentation about me experience connecting a PLC to cloud (OT/IT).
 - USB type Micro-B.
 - USB type A.
 
-## Hardware and software required
+### Hardware and software required
 
 * Engineering Station: Requirements are hardware and operating system (for additional information, see Readme on the TIA Portal Installation DVDs)
 * SIMATIC STEP 7 Professional software in TIA Portal V15 or higher
