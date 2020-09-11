@@ -88,3 +88,4 @@ Kibana or Power BI is used to generate reports, some examples of generated dashb
 
 - Siemens-IOT2000 configuration: https://www.automation.siemens.com/sce-static/learning-training-documents/tia-portal/hw-config-iot2000/sce-014-101-hardware-configuration-iot2000edu-r1806-en.pdf
 - https://www.elastic.co/es/blog/industrial-internet-of-things-iiot-with-the-elastic-stack
+- https://github.com/apache/plc4x
