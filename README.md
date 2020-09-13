@@ -23,25 +23,25 @@ Kibana or Power BI is used to generate reports, some examples of generated dashb
 
 ## Node-Red
 
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/node_red_flow_example.gif" width="600" align="center"/>
+</div>
+
 ### Installing in Windows 
 
 * Download and install nodejs from: https://nodejs.org/en/
 * Check version using this command: ```node -v```
 * Install node-red: ```npm install -g --unsafe-perm node-red```
-* ```npm install --global --production windows-build-tools```
+* Launch node-red server, execute: ```node-red```
 
 If you have nvm:
 * ```nvm install [VERSION-NODE]```
 * ```nvm use [VERSION-NODE]```
 
 
-For launch node-red server, execute:
-```bash
-node-red
-```
-
 Upgrading npm:
 * ```npm install npm@latest -g```
+* ```npm install --global --production windows-build-tools```
 
 Versions:
  - Node-RED version: 1.1.3
