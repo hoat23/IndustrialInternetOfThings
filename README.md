@@ -27,7 +27,7 @@ Kibana or Power BI is used to generate reports, some examples of generated dashb
 
 * Download and install nodejs from: https://nodejs.org/en/
 * Check version using this command: node -v
-* Install node-red: sudo npm install -g --unsafe-perm node-red
+* Install node-red: npm install -g --unsafe-perm node-red
 
 If you have nvm:
 * nvm install [VERSION-NODE]
