@@ -26,12 +26,12 @@ Kibana or Power BI is used to generate reports, some examples of generated dashb
 ### Installing in Windows 
 
 * Download and install nodejs from: https://nodejs.org/en/
-* Check version using this command: node -v
-* Install node-red: npm install -g --unsafe-perm node-red
-
+* Check version using this command: ```node -v```
+* Install node-red: ```npm install -g --unsafe-perm node-red```
+* ```npm install --global --production windows-build-tools```
 If you have nvm:
-* nvm install [VERSION-NODE]
-* nvm use [VERSION-NODE]
+* ```nvm install [VERSION-NODE]```
+* ```nvm use [VERSION-NODE]```
 
 
 For launch node-red server, execute:
