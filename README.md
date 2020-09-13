@@ -43,6 +43,11 @@ node-red
 Upgrading npm:
 * ```npm install npm@latest -g```
 
+Versions:
+ - Node-RED version: 1.1.3
+ - Node.js version: 12.18.2
+ - npm version: 6.14.5
+ 
 ### Remove from windows
 * Run this command: npm cache clean --force
 * Uninstall from Programs & Features with the uninstaller.
