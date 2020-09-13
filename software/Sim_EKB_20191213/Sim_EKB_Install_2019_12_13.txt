@@ -1,0 +1,358 @@
+﻿The original version only on http://plcforum.uz.ua/ -> About keys and Yellow Disk http://plcforum.uz.ua/viewtopic.php?f=30&t=218
+how to use https://www.youtube.com/watch?v=SpR165EPMBY 
+how to clone USB key https://www.youtube.com/watch?v=bdJoEpY2TpQ
+
+some rogues began to circulate counterfeit with backdoors  and viruses - check the MD5 checksum
+romanian gypsy forum distribute dangerous fakes !!! yes yes... "russian did it" 
+
+
+15/03/2010 closed by hoster //plc.net.ru - today (2017) is FALSE site - name of the website plc.net.ru is stolen from us
+19/03/2010 reopened forum with links http://www.plcforum.uz.ua 
+
+perhaps we will change the name of the forum from UZ.UA
+if this happens, then you can learn a new name on the forum http://rutracker.org/forum/viewforum.php?f=1192
+
+
+
+for add keys send it to plcsim@mail.ru, plcnetru@mail.ru 
+
+This program is not designed for use at work place - in an age of Stuxnet/Duqu/Flame can not trust anyone, and under the guise of this program, you can slip the malicious program.
+
+Sometimes I think I created a monster - do not put the keys in the industrial facilities!
+
+
+
+
+PCS7 v8.0, TIA Poprtal, WinCC and key9999
+
+Problems with new ALM v5
+
+Simatic IT Business Objects Enterprise signed keys
+
+Official FAQ 
+
+FastCopy keys v3.0
+
+
+3353 keys
+v2019.12.13 add some info for TIA Portal v16 //MD5:  96b9bdac1535744b5cfba3c036861c86 
+v2019.12.08 add some info for TIA Portal v16 //MD5:  88d59829be38be5a71711ca3e649047b 
+v2019.07.07 add info for D7-SYS, Enegy Manadger Web Clients, Sinetplan, Simotion Scout 0bde7df516c91947379e6ac577c16521 *Sim_EKB_Install_2019_07_07.exe
+v2019.06.25d internal for testing Enegy Manadger Web Clients 24c4fee0588f2364d14b35e4fdf5eb9c *Sim_EKB_Install_2019_06_25d.exe
+v2019.06.25c internal for testing Enegy Manadger Web Clients a3be54d909c287e90985281d3b3a85e8 *Sim_EKB_Install_2018_06_25c.exe
+v2019.06.25b internal for testing Enegy Manadger Web Clients cb0c09e13219372b50b267a08ef391ae *Sim_EKB_Install_2019_06_25b.exe
+v2019.06.25 internal for testing Enegy Manadger, Sinetplan, Simotion Scout a7d664c3b2402c80c8944365c3f4f5f8 *Sim_EKB_Install_2019_06_25.exe
+v2018.11.14 add info for WinCC v7.5 4df665e01dc195c8c7457646507d3dc1 *Sim_EKB_Install_2018_11_14.exe
+v2018.10.30  fixed bug '"15_1" is not valid integer' after installation Portal 15_1 181542fe08ac4f2268a51dab8b5f2f9d *Sim_EKB_Install_2018_10_30.exe
+v2018.09.11  add info for Simatic IT v7.1 29b75bc486935b95fc495960f1470b9b *Sim_EKB_Install_2018_09_11.exe
+v2018.09.07  add info for Simatic IT v7.1 5a48f6d82f1765e172c9915f25e6b5ee *Sim_EKB_Install_2018_09_07.exe
+v2018.08.19  add info for Sinumeric v4.8, Sinamics StartDrive v15 8b18c85790ed809c7ca863fada244cfd *Sim_EKB_Install_2018_08_19.exe
+v2018.07.31  internal for testing 9cc5d99394ebbfbc93415f36c97981be *Sim_EKB_Install_2018_07_31.exe
+v2018.07.25  add info for Simatic IT v7.1 d9caae5e99e08590e7acef87166c1c08 *Sim_EKB_Install_2018_07_25.exe
+v2018.06.08  add info for Simatic IT v7.1 d9caae5e99e08590e7acef87166c1c08 *Sim_EKB_Install_2018_07_25.exe
+v2018.06.08  add info for Simatic Automation Tool, Braumat 7.5 8843d2b9e8ae03679b4ea8695dd2fb73 *Sim_EKB_Install_2018_06_08.exe
+v2018.06.06  internal for testing
+v2018.05.20  add info for Simotion Scout for v5.2 93af98bb4905252eccb24381391bb034 *Sim_EKB_Install_2018_05_20.exe
+v2018.05.16  add info for Simotion Scout ... ups... v5.2 8adc0a674e6fe16c4732a855f92202d1 *Sim_EKB_Install_2018_05.exe
+v2018.03.10  add info for Target 1500S 475066a87c98affb50148d7d186efc7f *Sim_EKB_Install_2018_03_10.exe
+v2017.12.24  add info for TIA Portal v15.0 d1d09c87175629bdff20de1394912256 *Sim_EKB_Install_2017_12_24_TIA15.exe
+v2017.12.23  internal for testing
+v2017.12.04  add info for CMS X-Tools, Sicam, CPU1500 v3221ceb78e767c2c47beaa84a8a813cf *Sim_EKB_Install_2017_12_04.exe
+v2017.11.06  add info for Telecontrol v7.4 bd4d0c64bc42fa6575df4362a8987077 *Sim_EKB_Install_2017_11_06_TC.exe
+v2017.10.02  internal for testing 4507c2cbdde48203f7c5db6360337187 *Sim_EKB_Install_2017_10_02_internal_test.exe
+v2017.09.01  internal for testing 340881e71bdda777fc0b48b1c2018d35 *Sim_EKB_Install_2017_09_01_Flex.exe
+v2017.08.28  add info for DIGSI 07d12e1cf18dd211b3ff35fe5c0d65d2 *Sim_EKB_Install_2017_08_29_DIGSI.exe
+v2017.08.25  add info for Sinema Server v14, Simotion Scout v5.1 6a3276e48041a9fb1ead510e94246245 *Sim_EKB_Install_2017_08_25.exe
+v2017.08.11  internal for testing Sinema Server
+v2017.08.10  add info for Braumat, PCS7 v9.0 9df5c73893fa0ee7c5c0c7c4df07f0f5 *Sim_EKB_Install_2017_08_10.exe
+v2017.08.09  internal for testing Braumat, PCS7 v9.0 9518ba050d1c52f3b89746b952881aac *Sim_EKB_Install_2017_08_09.exe
+v2017.08.05  internal for testing Braumat, PCS7 v9.0 9d0080d82d02ea9dbde0322db65ba09d *Sim_EKB_Install_2017_08_05.exe
+2017.07.**  fake from CIA fakers !!! plc.myforum.ro distribute dangerous fakes !!!
+v2017.06.23  add info for WinCC PerformanceMonitor, Sinumerik 961e886a4d0a7f1f99dc80582b12ab4a *Sim_EKB_Install_2017_06_23.exe
+v2017.06.03  add info for Step7 v5.6 d94894697bcba56949fcf47590b8746f *Sim_EKB_Install_2017_06_03.exe
+v2017.04.13  internal for testing
+2017.04.03 - fake from CIA fakers 
+v2017.04.01 add some info for TIA, 80K RT Flexible 2008, Sinaut and optimized some keyset 75c14222a978ec85be055decd8fbee6d *Sim_EKB_Install_2017_04_01.exe
+v2017.01.17 add some info for Panel 8d672a831dce6250d8feafe04f361557 *Sim_EKB_Install_2017_01_17.exe
+v2017.01.14 add some info for IS PCS7 949ea884cc9b4f41a234c7e4e2883556 *Sim_EKB_Install_2017_01_14.exe
+
+v2016.11.28  add some info for D7-SYS v8.1 4431eee03720697c1ada83beb19e200e *Sim_EKB_Install_2016_12_05.exe
+v2016.11.28  add some info for SoftStarter and Simocode 14 3af2df6969bd421718a2be9be3cb14cf *Sim_EKB_Install_2016_11_28.exe
+v2016.11.25  add some info for TIA Portal 57b9f7b47daf28f6f0caf1caa5e8cebc *Sim_EKB_Install_2016_11_25.exe
+v2016.11.11  add some info for SICAM 2f596982e0857a6addc0fce8ad5354d2 *Sim_EKB_Install_2016_11_11.exe
+v2016.10.26  add some info for TIA Portal v14 191d03600f175d7697c9dabafc1925b6 *Sim_EKB_Install_2016_10_26.exe
+v2016.10.11  add some info for TIA Portal v14 58d7b14c9dc7af6c7515296d9baac1c3 *Sim_EKB_2016_10_11_TIA14.exe
+v2016.10.10  add some info for TIA Portal v14 bed8861d03f384e411e53b05cb999f48 *Sim_EKB_Install_2016_10_10_TIA14.exe
+v2016.09.06  add some info for WinCC TeleControl 0317bb0bf48251acab72dab273411860 *Sim_EKB_Install_2016_09_06_TC.exe
+v2016.08.16  internal for testing
+v2016.07.16  add some info for WinCC WebNavigator v7.4 e190b1c240fe0908c2fc6085bbec413c *Sim_EKB_Install_2016_07_16.exe
+v2016.05.30  add some info for PCS7 v8.2 950187a0303ab55fb99d30eb46f006f3 *Sim_EKB_Install_2016_05_30_DM.exe
+v2016.05.06  add some info for PCS7 v8.2 35e7872a5adf9e769ad06ec4151f1947 *Sim_EKB_Install_2016_05_06.exe
+v2016.04.25  add some info for WinCC v7.4, PCS7 v8.2, TIA Portal v14 89e4224d5710ee2f1d656e5d3ea2c5c5 *Sim_EKB_2016_04_25_WinCC.exe
+v2016.04.12  internal for testing
+v2016.03.12  add some info for Sinutrain v4.7 bbda2902d765225085a378d0d3b78632 *Sim_EKB_Install_2016_03_12_Sinutrain.exe private for testing
+v2015.11.24  add some info for Braumat v7.0, PDM v9.0 b34930d7d8f0dabf8f8e269aa89aa422 *Sim_EKB_Install_2015_11_14_Bramaut.exe private for testing
+v2015.10.22 add some info for PCS7 8.1 SMART station 96440b85e6646e1722ac0387a17f37e3 *Sim_EKB_Install_2015_10_22.exe
+v2015.10.21 add some info for SinuTrain v4.7 eee5018351d5d99606c00b41a9df2f0c *Sim_EKB_Install_2015_10_21.exe
+v2015.10.14 add some info for Audit v7.3 d767bea8610dc49141f57730853c7743 *Sim_EKB_Install_2015_10_14.exe
+v2015.09.04 add some info for Software CPU 1507S //MD5: 589b2b79d3f67007e2ef613b81e411f6 *Sim_EKB_Install_2015_09_04.exe
+v2015.08.31 add some info for Safety ES v1.0, Software CPU 1500S //MD5: 7938f4a9c3976c12566ebad1ea7da9bf *Sim_EKB_2015_08_31.exe
+04.08 is romanian gypsy fake !!! plc.myforum.ro distribute dangerous fakes !!!
+v2015.03.29 add some info for NET v13  //MD5: 542e0e7697460598cec371f5160b62be
+v2015.02.10 add some info for Simocode v13 //MD5: 7d5f0a35915f39e0009635f750630adb
+v2015.02.01 add some info for Cemat v8.0 //MD5: f4bea40978b125de557fa43845e8377e
+v2014.12.27 add some info for Cemat v8.0 //MD5: c3d7b48a5c0c86a8cdcf4f8d64e29bab
+v2014.11.11 add some info for PCS7 v8.1 //MD5:  e8ad4a811d8a76ca39ff0ef12248e12f  
+v2014.11.09 add some info for PCS7 v8.1 //MD5: 50923874052344ddcf031a6a036a224f
+v2014.10.02 add some info for PCS7 v8.1 //MD5:  858cbee929bec0a41eb7f94391ce13f7  
+09.19 is romanian gypsy fake !!! plc.myforum.ro distribute dangerous fakes !!!
+v2014.09.13 add some info for SinuTrain v4.5 //MD5:  8a788f25118e84f9f5a6cef6de486fff  
+v2014.09.13 add some info for Simatic WinCC v7.3/v13, Scout v4.4 //MD5:  91079d468dd72fa0e5a47f556e750539  
+v2014.08.05 test for Scout v4.4 //MD5: 029d67e86ba859f2cc584c0076420a68
+08.01 is romanian gypsy fake !!! plc.myforum.ro distribute dangerous fakes !!!
+v2014.07.28 add some info //MD5: 50659cf2c2f972460692ca7ce9461d1d
+v2014.03.08 add some info //MD5: f40d1b432f529f53002d9514e7a3bf1b
+v2013.12.25 add some info for Simatic Net v12 //MD5:  0ade8808e789e6e704e66b0877c1c04f *Sim_EKB_Install_2013_12_25.exe
+v2013.12.10 add some info for Simocode v12 // MD5: 10a0c74548ba89b80e98f2664289ba79
+v2013.12.02 add some info for PDM v8.1
+v2013.12.01 add some info for Softnet Security Client v4.0
+v2013.05.26 add some info for WinCC v7.2
+v2013.03.08 fix 1 key for TIA Portal v12
+v2013.03.03 add TIA Portal v12, S7-Technology, fix Unicode bug for some new keys folder
+v2013.03.01_test add TIA Portal v12 with some bug for all Unicode version from v2012.10.12
+v2013.01.21 fix bug with PID v11.0 keys, add some info for D7-SYS v8.0
+v2012.10.12 add Chinese language (possible Cyryllic chars in the European interfaces :) ASCII > Unicode
+v2012.09.29 add some info for Easy Motion v11.0, SinuTrain 4.4
+v2012.07.29 add some info for  PID v11.0 *but with error :(
+v2012.07.23 add some info for Simotion Scout v4.3
+v2012.07.19 add some info for Telecontrol Server Basic v2.0 and fix comment bug
+v2012.07.18 add some info for PDM v6.1.
+v2012.03.08 add some info for PCS7 v8.0.
+v2012.02.26 add some info forWinCC Flexible 2008 SP3, Simatic Net v8.1. Fixed bug of euristic engine.
+v2012.01.26 add some info for Simatic Net v8.1
+14/05/2011 add some info for TIA Portal V11
+15/02/2011 This internal version for testing add some keys
+11/10/2010 add some info for....
+10/10/2010 add one info for "SIK/ SIMATIC S5 PMC IE V7.0" ("A9S5IE70") 
+09/09/2010 add some info for WinCC DowntimeMonitor, WinAC, fix bug for comp and Virtual Machine with 1 HardDisk partition
+
+09/05/2010 add keys for WinCC Flexible 2008 SP2 options v1.3, Sinaut, fixed one ALM v5 bug
+20/04/2010 add some keys Safety Matrix, PCS7 powerrate, PCS7 CFC AS RT SIFPZASRPX9999A
+20/03/2010 add some keys, "option Recommended" and info about closed PLC.NET.RU and reopened http://plcforum.uz.ua 
+26/08/2009 add keys for TIA Portal v10.5, Braumat,  Maintenance Station 2009
+04/04/2009 add keys for WinAC MP 2008, PCS7 v7.1
+22/12/2008 add keys for WinAC 2008, Simatic Net 2008, RF-Manager 2008
+20/08/2008 add keys for WinCC Flexible 2008
+24/07/2008 Open FastCopy v3 key option
+21/07/2008 add keys for WinCC v7.0
+29/06/2008 add keys for PID Tools v5.2, D7-SYS v7.0, PowerControl, RF-Manager
+14/03/2008 add keys for Simatic IT and multikey description
+23/02/2008 add keys for CEMAT v7.0 ,  WinCC v6.2 and PCS7 v7.0
+18/02/2008 add keys for Simocode 2007  
+15/02/2008 add keys for DocPro 5.4, WinAC MP 2007, Soft Starter 2007  and fix error for "New" folder07/12/2007 add keys for Sinema E 2006 and fix error for Motor Starter 2007 (but add bug - not install keys from "New" folder)
+30/11/2007 add keys for Motor Starter 2007, Net 2007
+27/11/2007 add keys for SmartLabel v3.0 HF1, WinAC/RTX 2005 SP3
+07/11/2007 Add and change some Tags keys for WinCC v6.2 and PCS7 v7.0
+As it in a stage of development some functions can be not completely accessible or be carried out with flaws
+Direct record on a hard disk and Flash memory works. On Flash memory long keys - the list some minutes enter the name only
+It is necessary to add direct record of keys on a diskette
+It is necessary to correct for the list of keys
+In the previous versions there were problems with some short licenses ( WinAC, SmartLabel ).
+In the given version the part of problems is solved.
+
+In far, far years Siemens has charged development of protection for the software products to StopCopy corporation. That has developed protection on the basis of the key files placed on special image to the formatted Yellow diskette - from here and the name.
+Thus affirmed, that protection up to that is reliable, that " it will be reliable to preserve your investments ".
+Big human thanks experts StopCopy for the done operation in the field of creation of an atmosphere of availability of products of Siemens to broad masses of programmers. It has made program and hardware solutions very popular and demanded worldwide, that has allowed to compete adequately to other manufacturers of automation even in their territory. To take for an example of the USA with and them B&R and General Electric... And accordingly has really saved up the nested investments. In fact iron equally should be bought all from Siemens.
+
+The given program is intended for installation of keys of licenses in case of, when:
+There has occurred " a rainy day of the programmer " - the system has flied together with all authorizations, and to work it is necessary, even in remote areas;
+When there was a new hot product, and the heads yet does not give money for it.
+Simply you wish to study for the general development.
+
+It is developed in connection with release of version ALM 3.0 - the Authorization Licenses Manager after whom, so-called, "fastcopy" long keys of authorization have ceased to work because of their ignoring by this Authorizator.
+"Fastcopy" keys could be copied simply in the directory of licenses C: \AX NF ZZ. They used auxiliary "hole" in system of authorization ALM <v3.0 which have been covered with output Step7 v5.4 SP1. 
+Also additional coding the keys, therefore new keys have been applied are not visible in ALM v2.2.
+New keys are incorrectly displayed in old versions of programs EKB_Rename, EKB_Backup and in EKB_Install <v.2007.03.03
+and are not visible in ALM v1 and v2.
+
+I do not call to use a software of Siemens in the mercenary purposes. Programs for the industrial purposes basically should be pawned in estimates of projects and be gained on money of the customer.
+Very few people will come in a head to put the customer left PCS7 with the left keys and without the certificate on large production.
+And for house usage probably there is nothing worse fuss with license diskettes. There were cases when the worn out firm Yellow license started to be showered for Intourist with miss of keys in far remote places without phone and the Internet.
+I recommend to buy from Siemens Premium Studio 2008 for 90 euros for acquaintance with Simatic programs
+
+[VIDEO Install key.swf]
+
+
+
+------------------------------------------------------
+Оригинальные версии только на сайте http://plcforum.uz.ua/ - About keys and Yellow Disk  http://plcforum.uz.ua/viewtopic.php?f=30&t=218
+некоторые жулики начали распространять подделки с чёрными ходами и вирусами - проверяйте контрольную сумму MD5
+
+Как использовать https://www.youtube.com/watch?v=SpR165EPMBY
+Как клогировать флешку с ключами https://www.youtube.com/watch?v=bdJoEpY2TpQ
+ 
+15/03/2010 closed by hoster //plc.net.ru - today (2017) is FALSE site - name of the website plc.net.ru is stolen from us
+19/03/2010 reopened forum with links http://www.plcforum.uz.ua 
+
+
+Данная программа не предназначена для использовании на работе - в век Стукнета/Куку/Флейм никому доверять нельзя и под личиной этой программы вам могут подсунуть зловреда.
+
+Иногда мне кажется, что я создал монстра - не ставьте эти ключи на промышленные объекты !
+
+
+
+
+Ключи 9999 для теговых лицензий PCS7 v8.0, WinCC, Flexible, TIA Portal
+
+Проблемы в том числе в связи с выходом ALM v5
+
+Simatic IT Business Objects Enterprise signed keys
+
+Официальный FAQ (на английском)
+
+FastCopy keys v3.0
+
+рекомендуемый текст описания для размещения на торрентах
+"Справочник программиста о продуктах Симатик с информацией о программных продуктах и требуемых лицензиях.
+
+
+3353 keys
+v2019.12.13 Добавлена информация для TIA Portal v16 //MD5:  96b9bdac1535744b5cfba3c036861c86 
+v2019.12.08 Добавлена информация для TIA Portal v16 //MD5:  88d59829be38be5a71711ca3e649047b 
+v2019.07.07 Добавлена информация для D7-SYS, Enegy Manadger Web Clients, Sinetplan, Simotion Scout 0bde7df516c91947379e6ac577c16521 *Sim_EKB_Install_2019_07_07.exe
+v2019.06.25d внутренняя для тестирования Enegy Manadger Web Clients 24c4fee0588f2364d14b35e4fdf5eb9c *Sim_EKB_Install_2019_06_25d.exe
+v2019.06.25c внутренняя для тестирования Enegy Manadger Web Clients a3be54d909c287e90985281d3b3a85e8 *Sim_EKB_Install_2018_06_25c.exe
+v2019.06.25b внутренняя для тестирования  Enegy Manadger Web Clients cb0c09e13219372b50b267a08ef391ae *Sim_EKB_Install_2019_06_25b.exe
+v2019.06.25 внутренняя для тестирования  Enegy Manadger, Sinetplan, Simotion Scout a7d664c3b2402c80c8944365c3f4f5f8 *Sim_EKB_Install_2019_06_25.exe
+v2018.11.14 Добавлена информация для WinCC v7.5 4df665e01dc195c8c7457646507d3dc1 *Sim_EKB_Install_2018_11_14.exe
+v2018.10.30  устранена ошибка '"15_1" is not valid integer' после установки Portal 15_1 181542fe08ac4f2268a51dab8b5f2f9d *Sim_EKB_Install_2018_10_30.exe
+v2018.09.11  Добавлена информация для Simatic IT v7.1 29b75bc486935b95fc495960f1470b9b *Sim_EKB_Install_2018_09_11.exe
+v2018.09.07  Добавлена информация для Simatic IT v7.1 5a48f6d82f1765e172c9915f25e6b5ee *Sim_EKB_Install_2018_09_07.exe
+v2018.08.19  Добавлена информация для Sinumeric v4.8, Sinamics StartDrive v15 8b18c85790ed809c7ca863fada244cfd *Sim_EKB_Install_2018_08_19.exe
+v2018.07.31  внутренняя для тестирования 9cc5d99394ebbfbc93415f36c97981be *Sim_EKB_Install_2018_07_31.exe
+v2018.07.25  Добавлена информация для Simatic IT v7.1 d9caae5e99e08590e7acef87166c1c08 *Sim_EKB_Install_2018_07_25.exe
+v2018.06.08  Добавлена информация для Simatic Automation Tool, Braumat 7.5 8843d2b9e8ae03679b4ea8695dd2fb73 *Sim_EKB_Install_2018_06_08.exe
+v2018.05.20  Добавлена информация для Simotion Scout for v5.2 93af98bb4905252eccb24381391bb034 *Sim_EKB_Install_2018_05_20.exe
+v2018.05.16  Добавлена информация для Simotion Scout ... был уставшим... v5.1 8adc0a674e6fe16c4732a855f92202d1 *Sim_EKB_Install_2018_05_16.exe
+v2018.03.10  Добавлена информация для Target 1500S 475066a87c98affb50148d7d186efc7f *Sim_EKB_Install_2018_03_10.exe
+v2017.12.24  Добавлена информация для TIA Portal v15.0 d1d09c87175629bdff20de1394912256 *Sim_EKB_Install_2017_12_24_TIA15.exe
+v2017.12.23  внутренняя для тестирования TIA Portal v15.0 
+v2017.12.04  Добавлена информация для CMS X-Tools, Sicam, CPU1500 v3221ceb78e767c2c47beaa84a8a813cf *Sim_EKB_Install_2017_12_04.exe
+v2017.11.06  Добавлена информация для Telecontrol v7.4 bd4d0c64bc42fa6575df4362a8987077 *Sim_EKB_Install_2017_11_06_TC.exe
+v2017.10.02  внутренняя для тестирования 4507c2cbdde48203f7c5db6360337187 *Sim_EKB_Install_2017_10_02_internal_test.exe
+v2017.09.01  внутренняя для тестирования 340881e71bdda777fc0b48b1c2018d35 *Sim_EKB_Install_2017_09_01_Flex.exe
+v2017.08.28  Добавлена информация для DIGSI 07d12e1cf18dd211b3ff35fe5c0d65d2 *Sim_EKB_Install_2017_08_29_DIGSI.exe
+v2017.08.25  Добавлена информация для Sinema Server v14, Simotion Scout v5.1 6a3276e48041a9fb1ead510e94246245 *Sim_EKB_Install_2017_08_25.exe
+v2017.08.11  внутренняя для тестирования Sinema Server
+v2017.08.10  Добавлена информация для Braumat, PCS7 v9.0 9df5c73893fa0ee7c5c0c7c4df07f0f5 *Sim_EKB_Install_2017_08_10.exe
+v2017.08.09  внутренняя для тестирования Braumat, PCS7 v9.0 9518ba050d1c52f3b89746b952881aac *Sim_EKB_Install_2017_08_09.exe
+v2017.08.05  внутренняя для тестирования Braumat v7.1, PCS7 v9.0 9d0080d82d02ea9dbde0322db65ba09d *Sim_EKB_Install_2017_08_05.exe
+07.** - подделка от ЦРУ / подделка от румынских цыган
+v2017.06.23  Добавлена информация для WinCC PerformanceMonitor, Sinumerik 961e886a4d0a7f1f99dc80582b12ab4a *Sim_EKB_Install_2017_06_23.exe
+v2017.06.03  Добавлена информация для  Step7 v5.6 d94894697bcba56949fcf47590b8746f *Sim_EKB_Install_2017_06_03.exe
+v2017.04.13  внутренняя для тестирования
+2017.04.03 - подделка от ЦРУ / подделка от румынских цыган
+v2017.04.01 Добавлена информация для TIA, 80K RT Flexible 2008, Sinaut и кое что оптимизировано и подправлено 75c14222a978ec85be055decd8fbee6d *Sim_EKB_Install_2017_04_01.exe
+v2017.01.17 Добавлена информация для Panel b05a850d5e59b6c4bd29c6c8b7393c77 *Sim_EKB_Install_2017_01_17.exe
+v2017.01.14 Добавлена информация для IS PCS7 949ea884cc9b4f41a234c7e4e2883556 *Sim_EKB_Install_2017_01_14.exe
+v2016.11.28 Добавлена информация для D7-SYS v8.1 4431eee03720697c1ada83beb19e200e *Sim_EKB_Install_2016_12_05.exe
+v2016.11.28 Добавлена информация для SoftStarter and Simocode 14 3af2df6969bd421718a2be9be3cb14cf *Sim_EKB_Install_2016_11_28.exe
+v2016.11.25 Добавлена информация для TIA Portal 57b9f7b47daf28f6f0caf1caa5e8cebc *Sim_EKB_Install_2016_11_25.exe
+v2016.11.11 Добавлена информация для SICAM 2f596982e0857a6addc0fce8ad5354d2 *Sim_EKB_Install_2016_11_11.exe
+v2016.10.26 Добавлена информация для TIA Portal v14 191d03600f175d7697c9dabafc1925b6 *Sim_EKB_Install_2016_10_26.exe
+v2016.10.11 Добавлена информация для TIA Portal v14 58d7b14c9dc7af6c7515296d9baac1c3 *Sim_EKB_2016_10_11_TIA14.exe
+v2016.10.10  add some info for TIA Portal v14 bed8861d03f384e411e53b05cb999f48 *Sim_EKB_Install_2016_10_10_TIA14.exe
+v2016.09.06  add some info for WinCC TeleControl 0317bb0bf48251acab72dab273411860 *Sim_EKB_Install_2016_09_06_TC.exe
+v2016.07.16  add some info for WinCC WebNavigator v7.4 e190b1c240fe0908c2fc6085bbec413c *Sim_EKB_Install_2016_07_16.exe
+v2016.05.30  add some info for PCS7 v8.2 950187a0303ab55fb99d30eb46f006f3 *Sim_EKB_Install_2016_05_30_DM.exe
+v2016.04.25  add some info for WinCC v7.4, PCS7 v8.2, TIA Portal v14 89e4224d5710ee2f1d656e5d3ea2c5c5 *Sim_EKB_2016_04_25_WinCC.exe
+v2016.04.12  внутренняя для тестирования
+v2016.03.12  add some info for Sinutrain v4.7 bbda2902d765225085a378d0d3b78632 *Sim_EKB_Install_2016_03_12_Sinutrain.exe private for testing
+v2015.11.24  add some info for Braumat v7.0, PDM v9.0 b34930d7d8f0dabf8f8e269aa89aa422 *Sim_EKB_Install_2015_11_14_Bramaut.exe private for testing
+v2015.10.22 add some info for PCS7 8.1 SMART station 96440b85e6646e1722ac0387a17f37e3 *Sim_EKB_Install_2015_10_22.exe
+v2015.10.21 add some info for SinuTrain v4.7 eee5018351d5d99606c00b41a9df2f0c *Sim_EKB_Install_2015_10_21.exe
+v2015.10.14 add some info for Audit v7.3 d767bea8610dc49141f57730853c7743 *Sim_EKB_Install_2015_10_14.exe
+v2015.09.04 add some info for Software CPU 1507S //MD5: 589b2b79d3f67007e2ef613b81e411f6 *Sim_EKB_Install_2015_09_04.exe
+v2015.08.31 add some info for Safety ES v1.0, Software CPU 1500S //MD5: 7938f4a9c3976c12566ebad1ea7da9bf *Sim_EKB_2015_08_31.exe
+v2015.03.29 add some info for NET v13  //MD5: 542e0e7697460598cec371f5160b62be
+v2015.02.10 add some info for Simocode v13 //MD5: 7d5f0a35915f39e0009635f750630adb
+v2015.02.01 add some info for Cemat v8.0 //MD5: f4bea40978b125de557fa43845e8377e
+v2014.12.27 add some info for Cemat v8.0 //MD5: c3d7b48a5c0c86a8cdcf4f8d64e29bab
+v2014.11.11 add some info for PCS7 v8.1 //MD5:  e8ad4a811d8a76ca39ff0ef12248e12f  
+v2014.11.09 add some info for PCS7 v8.1 //MD5: 50923874052344ddcf031a6a036a224f
+v2014.10.02 add some info for PCS7 v8.1 //MD5:  858cbee929bec0a41eb7f94391ce13f7  
+v2014.09.16 add some info for SinuTrain v4.5 //MD5:  8a788f25118e84f9f5a6cef6de486fff  
+v2014.09.13 add some info for Simatic WinCC v7.3/v13, Scout v4.4 //MD5:  91079d468dd72fa0e5a47f556e750539  
+v2014.08.05 test for Scout v4.4 //MD5: 029d67e86ba859f2cc584c0076420a68
+08.01 подделка от румынских цыган !!!
+v2014.07.28 add some info //MD5: 50659cf2c2f972460692ca7ce9461d1d
+v2014.03.08 add some info //MD5: f40d1b432f529f53002d9514e7a3bf1b
+v2013.12.25 Добавлена информация для  Simatic Net v12 //MD5:  0ade8808e789e6e704e66b0877c1c04f *Sim_EKB_Install_2013_12_25.exe
+v2013.12.10 Добавлена информация для Simocode v12 // Контрольная сумма MD5: 10a0c74548ba89b80e98f2664289ba79
+v2013.12.02 Добавлена информация для PDM v8.1
+v2013.12.01 Добавлена информация для Softnet Security Client v4.0
+v2013.05.26 Добавлена информация для WinCC v7.2
+v2013.03.08 исправлен 1 ключ для TIA Portal v12
+v2013.03.03 Добавлена информация для TIA Portal v12, S7-Technology, Unicode ошибка для папки Новые ключи исправлена
+v2013.03.01_test Тестовая временная Добавлена информация для TIA Portal v12, с обнаруженной ошибкой для предыдущих Unicode версий начиная с v2012.10.12
+v2013.01.21 Исправлена описка для  PID v11.0,  Добавлена информация для D7-SYS v8.0
+v2012.10.12 Добавлен китайский интерфейс
+v2012.09.29 Добавлена информация для Easy Motion v11.0, SinuTrain 4.4
+v2012.07.29 Добавлена информация для  PID v11.0, но как выяснилось - с опиской
+v2012.07.23 Добавлена информация для Simotion Scout v4.3
+v2012.07.19 Добавлена информация для Telecontrol Server Basic v2.0 и исправлена ошибка комментария продукта 
+v2012.07.18 Добавлена информация для PDM v6.1.
+08/03/2012 Добавлена информация для PCS7 v8.0
+26/02/2012 Добавлена информация для WinCC Flexible 2008 SP3, Simatic Net v8.1. Исправлен баг эвристика.
+26/01/2012 Добавлена информация для Simatic Net v8.1
+14/05/2011 Добавлена информация для тестирования  TIA Portal V11
+15/02/2011 Внутренняя версия
+10/10/2010 add one info for "SIK/ SIMATIC S5 PMC IE V7.0" ("A9S5IE70") 
+09/09/2010 Добавлена информация для WinAC, исправлена ошибка, проявляющаяся на компах и виртуальных машинах с одним разделом жёсткого диска
+09/05/2010 Добавлена информация для WinCC Flexible 2008 SP2 options v1.3 (для тестирования), одна ошибка связанная с АЛМ 5 блокирована
+05/05/2010 Добавлена информация для Sinaut
+20/04/2010 Добавлена информация для Safety Matrix, PCS7 powerrate, PCS7 CFC AS RT SIFPZASRPX9999A
+20/03/2010 Добавлены некоторые лицензии, опция Рекомендуемые и информация о закрытии PLC.NET.RU и открытии http://plcforum.uz.ua 
+26/08/2009 Добавлены лицензии для  TIA Portal v10.5, Braumat,  Maintenance Station 2009
+04/04/2009 Добавлены лицензии для WinAC MP 2008, PCS7 v7.1
+22/12/2008 Добавлены лицензии для WinAC 2008, Simatic Net 2008, RF-Manager 2008
+20/08/2008 Добавлены лицензии для WinCC Flexible 2008
+24/07/2008 Открыл опцию создания FastCopy ключей
+21/07/2008 Добавлены лицензии для WinCC v7.0
+29/06/2008 Добавлены лицензии для PID Tools v5.2, D7-SYS v7.0, PowerControl, RF-Manager
+14/03/2008 Добавлены лицензии для Simatic IT и описание multikey
+23/02/2008 Добавлены лицензии для CEMAT v7.0 ,  WinCC v6.2 and PCS7 v7.0
+18/02/2008 Добавлены лицензии для Simocode 2007 
+15/02/2008 Добавлены лицензии для DocPro 5.4, WinAC MP, Soft Starter 2007  и вроде исправил ошибку установки ключей из папки "New"
+07/12/2007 Добавлены лицензии для Sinema E 2006 and fix error for Motor Starter 2007  (но добавил ошибку - не устанавливались ключи из папки "New")
+30/11/2007 Добавлены лицензии для Motor Starter 2007, Net 2007
+27/11/2007 Добавлены лицензии дляSmartLabel v3.0 HF1, WinAC/RTX 2005 SP3
+07/11/2007 Добавлены некоторые тэговые лицензии для WinCC v6.2 и PCS7 v7.0.
+В предыдущих версиях имелись проблемы с некоторыми короткими лицензиями (WinAC, SmartLabel)
+При создании одноключевой жёлтой дискеты была ошибка в ключевом файле.
+В данной версии часть проблем решена.
+В далёкие, далёкие годы Сименс поручил разработку защиты для своих программных продуктов фирме StopCopy. Та разработала защиту на основе ключевых файлов, размещаемых на особым образом отформатированной Жёлтой дискете - отсюда и название.
+При этом утверждалось, что защита до того надёжна, что "будет надёжно оберегать ваши инвестиции".
+Большое человеческое спасибо специалистам StopCopy за проделанную работу в области создания атмосферы доступности продуктов Сименса широким массам программистов. Это сделало программные и аппаратные решения очень популярными и востребованными по всему миру, что позволило достойно соперничать с другими производителями автоматики даже на их территории. Взять для примера США с и их B&R и General Electric... и соответственно действительно сберегло вложенные инвестиции. Ведь железо всё равно надо покупать у Сименса.
+
+Данная программа предназначена для установки ключей лицензий в случае , когда:
+наступил "чёрный день программиста" - система слетела вместе со всеми авторизациями, а работать надо, даже в труднодоступных районах;
+когда вышел новый горячий продукт, а денег на него начальство пока не даёт;
+просто хочешь изучить для общего развития.
+Данная программа не предназначена для использовании на работе - в век Стукнета никому доверять нельзя и под личиной этой программы вам могут подсунуть зловреда.
+
+Разработана в связи с выпуском версии ALM 3.0  - Менеджера Авторизации Лицензий, после которого, так называемые, "быстрокопируемые v1" длинные ключи авторизации перестали работать из-за их игнорирования этим Авторизатором.
+"Быстрокопируемые" ключи можно просто копировать в каталог лицензий C:\AX NF ZZ. 
+"Быстрокопируемые v1" использовали служебную "дырку" в системе авторизации ALM <v3.0, которая была прикрыта с выходом Step7 v5.4 SP1.
+"Быстрокопируемые v3" приживаются без проблем в АЛМ 3.
+
+Также было применено дополнительное кодирование ключей, поэтому новые ключи не видны в АЛМ 2.2. 
+Новые ключи неправильно отображаются в старых версиях программ EKB_Rename, EKB_Backup, EKB_Install <v.2007.03.03.
+
+
+Я не призываю использовать софт Сименса в корыстных целях. Программы для производственных целей в принципе должны закладываться в сметы проектов и приобретаться на деньги заказчика.
+Мало кому придёт в голову поставить заказчику левую ПЦС7 с левыми ключами и без сертификата на крупное производство.
+А для домашнего использования наверное нет ничего хуже возни с лицензионными дискетами. Бывали случаи, когда заезженная фирменная Жёлтая лицензия начинала осыпаться у Интуриста с пропаданием ключей в далёкой глубинке без телефона и Интернета.
+
+
+[VIDEO Install key.swf]
