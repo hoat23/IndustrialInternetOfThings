@@ -33,10 +33,14 @@ If you have nvm:
 * nvm install [VERSION-NODE]
 * nvm use [VERSION-NODE]
 
+
 For launch node-red server, execute:
 ```bash
 node-red
 ```
+
+Upgrading npm:
+* ```npm install npm@latest -g```
 
 ### Remove from windows
 * Run this command: npm cache clean --force
