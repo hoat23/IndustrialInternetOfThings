@@ -33,6 +33,11 @@ If you have nvm:
 * nvm install [VERSION-NODE]
 * nvm use [VERSION-NODE]
 
+For launch node-red server, execute:
+```bash
+node-red
+```
+
 ### Remove from windows
 * Run this command: npm cache clean --force
 * Uninstall from Programs & Features with the uninstaller.
