@@ -29,6 +29,10 @@ Kibana or Power BI is used to generate reports, some examples of generated dashb
 * Check version using this command: node -v
 * Install node-red: sudo npm install -g --unsafe-perm node-red
 
+If you have nvm:
+* nvm install [VERSION-NODE]
+* nvm use [VERSION-NODE]
+
 ### Remove from windows
 * Run this command: npm cache clean --force
 * Uninstall from Programs & Features with the uninstaller.
