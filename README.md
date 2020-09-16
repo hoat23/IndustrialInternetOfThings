@@ -138,6 +138,8 @@ db = plc.db_read(10,0,8)
 real = struct.iter_unpack("!f",db[:6] )
 print( "3 x Real Vars:", [f for f, in real] )
 print( "3 x Bool Vars:", db[1]&1==1, db[2]&2==2, db[3]&4==4 )
+
+plc.destroy()
 ```
 
 
