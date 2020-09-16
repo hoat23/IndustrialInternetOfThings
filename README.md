@@ -18,6 +18,8 @@ adapt the data collection.
 - Step 5 Visualize: The entire intelligent and adaptive data collection process can be monitored
 and controlled in a visual fashion, based on proper dashboards.
 
+## Communication protocols
+
 Every vendor use a specific protocol:
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/vendor_brand_specific_protocol.png" width="600" align="center"/>
@@ -181,8 +183,9 @@ Comming soon.
 - https://readthedocs.org/projects/python-snap7/downloads/pdf/latest/
 - https://www.npmjs.com/package/node-snap7/v/0.1.2
 
-# Reference
+# More Information
 
 - Siemens-IOT2000 configuration: https://www.automation.siemens.com/sce-static/learning-training-documents/tia-portal/hw-config-iot2000/sce-014-101-hardware-configuration-iot2000edu-r1806-en.pdf
 - https://www.elastic.co/es/blog/industrial-internet-of-things-iiot-with-the-elastic-stack
 - https://github.com/apache/plc4x
+- https://secureiot.eu/sites/default/files/SECUREIoT_D3.3-Intelligent%20Data%20Collection%20Mechanisms%20and%20APIs-First%20Version-Final_v11.pdf
