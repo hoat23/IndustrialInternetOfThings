@@ -48,6 +48,19 @@ Kibana or Power BI is used to generate reports, some examples of generated dashb
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/iiot-canvas-dashboards-blog.gif" width="600" align="center"/>
 </div>
 
+# Why ElasticStack ofr IoT Analytics Platform
+While specific requirements of a platform varies between organisations, developing a platform which serves real-time operational use cases must address these seven key criteria.
+
+- [x] Raw Data Processing
+- [x] Real-Time Aggregation
+- [x] Auto-Scaling Datastore
+- [x] Data Lifecycle Management
+- [x] Real-Time Alerting
+- [x] Self-Service Visualisation
+- [x] Application Monitoring
+
+The Elastic Stack comprises of a suite of open source products that enable users to take data from anywhere and search, analyse and visualise it in real-time.
+
 # Software
 
 ## Node-Red
