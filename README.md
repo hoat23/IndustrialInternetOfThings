@@ -143,7 +143,7 @@ Versions:
 * Software for writing the example image on the SD card, e.g. Win32 Disk Imager
 * Software for SSH access, e.g. PuTTY
 * Software for SFTP/SCP file transfer, e.g. WinSCP
-* SIMATIC IOT2000 controller, e.g. IOT2040 with MicroSD Card and IO-Shield https://support.industry.siemens.com/cs/document/109741799/imagen-ejemplo-para-la-sd-card-de-un-simatic-iot2020-iot2040?dti=0&lc=es-AR.
+* SIMATIC IOT2000 controller, e.g. IOT2040 with MicroSD Card and IO-Shield https://support.industry.siemens.com/cs/document/109741799/imagen-ejemplo-para-la-sd-card-de-un-simatic-iot2020-iot2040?dti=0&lc=es-AR (Yocto Linux Operating System).
 * Ethernet connection between the engineering station and controller
 * SIMATIC IOT2000EDU Software Controller executable on IOT2020 and IOT2040
 
@@ -208,3 +208,4 @@ Comming soon.
 - https://www.elastic.co/es/blog/industrial-internet-of-things-iiot-with-the-elastic-stack
 - https://github.com/apache/plc4x
 - https://secureiot.eu/sites/default/files/SECUREIoT_D3.3-Intelligent%20Data%20Collection%20Mechanisms%20and%20APIs-First%20Version-Final_v11.pdf
+- https://www.maffucci.it/wp-content/uploads/2020/02/SIMATIC_IOT2000_Setting_up_V2.1.1.pdf
