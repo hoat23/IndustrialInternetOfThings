@@ -209,7 +209,7 @@ In order to correctly read the data from the plc, the following steps must be fo
 </div>
 5. Define the variables, like this:
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_05.PNG" width="400" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_05.PNG" width="700" align="center"/>
 </div>
 6. Open properties of this data-block:
 <div align="center">
@@ -221,7 +221,7 @@ In order to correctly read the data from the plc, the following steps must be fo
 </div>
 8. Compile the data-block, doing click in "compile" button.
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_08.PNG" width="400" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_08.PNG" width="700" align="center"/>
 </div>
 9. Whait by finish of compilation.
 <div align="center">
@@ -229,7 +229,7 @@ In order to correctly read the data from the plc, the following steps must be fo
 </div>
 10. Now you can see the direction in memory of every variable defined in data-block.
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_10.PNG" width="400" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_10.PNG" width="700" align="center"/>
 </div>
 
 ### Python example
