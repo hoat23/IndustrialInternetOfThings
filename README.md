@@ -91,7 +91,27 @@ Versions:
  - Node-RED version: 1.1.3
  - Node.js version: 12.18.2
  - npm version: 6.14.5
- 
+
+### Installing in Docker
+
+We create a file 'docker-compose.yml' with this content:
+
+```
+version: '3'
+services:
+	mosquitto:
+		image: eclipse-mosquitto
+		ports:
+		  - 1883:1883
+		  - 9001:9001
+	
+	nodered:
+		image: cpswan/node-red
+		ports:
+		  - 1880:1880
+``` 
+A video explanation see: https://www.youtube.com/watch?v=KJXU0PL1oNM
+
 ### Remove from windows
 * Run this command: npm cache clean --force
 * Uninstall from Programs & Features with the uninstaller.
