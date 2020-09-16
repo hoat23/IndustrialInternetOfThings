@@ -121,9 +121,13 @@ Search the snap7 folder for snap7.dll and snap7.lib files Copy the snap7.dll and
 
 ```python
 import snap7
-from snap7.util import *
 import struct
+from snap7.common import Snap7Library
+from snap7.util import *
 
+# If you are using a different location for the library
+Snap7Library(lib_location='C:/snap7/snap7.dll')
+load_library() #Testing library is correctly <WinDLL 'C:\snap7\snap7.dll', handle 7ff9d5d90000 at 0x1a5a0417640>
 
 plc = snap7.client.Client()
 plc.connect("10.112.115.10",0,1)
@@ -134,6 +138,7 @@ real = struct.iter_unpack("!f",db[:12] )
 print( "3 x Real Vars:", [f for f, in real] )
 print( "3 x Bool Vars:", db[12]&1==1, db[12]&2==2, db[12]&4==4 )
 ```
+
 
 
 Snap7 Documentation: https://python-snap7.readthedocs.io/en/latest/installation.html#compile-from-source
