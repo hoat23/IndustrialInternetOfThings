@@ -142,7 +142,9 @@ print( "3 x Bool Vars:", db[12]&1==1, db[12]&2==2, db[12]&4==4 )
 
 
 
-Snap7 Documentation: https://python-snap7.readthedocs.io/en/latest/installation.html#compile-from-source
+Snap7 Documentation: 
+- https://python-snap7.readthedocs.io/en/latest/installation.html#compile-from-source
+- https://readthedocs.org/projects/python-snap7/downloads/pdf/latest/
 
 # Reference
 
