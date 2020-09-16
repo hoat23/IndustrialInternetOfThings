@@ -7,9 +7,9 @@ Documentation about me experience connecting a PLC to cloud (OT/IT).
 
 The architecture specifies a five-step process:
 - Step 1 Data Collection: Security related information is collected from the probes, including
-system level and application level probes as specified in the SecureIoT architecture.
+system level and application level probes as specified in the architecture.
 - Step 2 Routing: Security information is routed to data stores and data analytics engines at
-either the data collection or the security intelligence layer of the SecureIoT architecture.
+either the data collection or the security intelligence layer of the architecture.
 - Step 3 Analyze: Security information is analyzed towards identifying patterns based on rules
 or other data-driven mechanisms (e.g., classification).
 - Step 4 Control & Actuate: Upon the identification of a specific behavior or event (e.g.,
