@@ -187,6 +187,50 @@ Comming soon.
 
 ## Connecting to PLC s7-1200
 
+###  How to configure data-blocks of PLC correctly
+
+In order to correctly read the data from the plc, the following steps must be followed.
+
+1. Enable PUT/GET
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_01.PNG" width="400" align="center"/>
+</div>
+2. Configure IP of PLC
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_02.PNG" width="400" align="center"/>
+</div>
+3. Add a new data-block
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_03.PNG" width="200" align="center"/>
+</div>
+4. Write name of data-block (example: IOT) and set manually the direction of block (in this case is 10)
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_04.PNG" width="400" align="center"/>
+</div>
+5. Define the variables, like this:
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_05.PNG" width="400" align="center"/>
+</div>
+6. Open properties of this data-block:
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_06.png" width="400" align="center"/>
+</div>
+7. Disabled "optimized block access"
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_07.PNG" width="400" align="center"/>
+</div>
+8. Compile the data-block, doing click in "compile" button.
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_08.PNG" width="400" align="center"/>
+</div>
+9. Whait by finish of compilation.
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_09.PNG" width="400" align="center"/>
+</div>
+10. Now you can see the direction in memory of every variable defined in data-block.
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_10.PNG" width="400" align="center"/>
+</div>
 ### Python example
 ```python
 import snap7
