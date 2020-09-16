@@ -48,7 +48,7 @@ Kibana or Power BI is used to generate reports, some examples of generated dashb
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/iiot-canvas-dashboards-blog.gif" width="600" align="center"/>
 </div>
 
-# Why ElasticStack ofr IoT Analytics Platform
+# Why ElasticStack for IoT Analytics Platform
 While specific requirements of a platform varies between organisations, developing a platform which serves real-time operational use cases must address these seven key criteria.
 
 - [x] Raw Data Processing
