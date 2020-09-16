@@ -103,7 +103,7 @@ Versions:
 * Ethernet connection between the engineering station and controller
 * SIMATIC IOT2000EDU Software Controller executable on IOT2020 and IOT2040
 
-# Connect to PLC using Python-Snap7
+# Connect to PLC using Snap7
 
 ## Installing Snap7 in Windows
 
@@ -119,6 +119,7 @@ Search the snap7 folder for snap7.dll and snap7.lib files Copy the snap7.dll and
 
 ## Connecting to PLC s7-1200
 
+### Python example
 ```python
 import snap7
 import struct
@@ -142,11 +143,15 @@ print( "3 x Bool Vars:", db[1]&1==1, db[2]&2==2, db[3]&4==4 )
 plc.destroy()
 ```
 
+### Node-red example
+
+Comming soon.
 
 
 Snap7 Documentation: 
 - https://python-snap7.readthedocs.io/en/latest/installation.html#compile-from-source
 - https://readthedocs.org/projects/python-snap7/downloads/pdf/latest/
+- https://www.npmjs.com/package/node-snap7/v/0.1.2
 
 # Reference
 
