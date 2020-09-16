@@ -135,9 +135,9 @@ plc.connect("10.112.115.10",0,1)
 #---Read DB--- 
 # DB:10, start:0, size:8
 db = plc.db_read(10,0,8)
-real = struct.iter_unpack("!f",db[:12] )
+real = struct.iter_unpack("!f",db[:6] )
 print( "3 x Real Vars:", [f for f, in real] )
-print( "3 x Bool Vars:", db[12]&1==1, db[12]&2==2, db[12]&4==4 )
+print( "3 x Bool Vars:", db[1]&1==1, db[2]&2==2, db[3]&4==4 )
 ```
 
 
