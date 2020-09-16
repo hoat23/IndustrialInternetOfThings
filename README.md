@@ -105,7 +105,15 @@ Versions:
 
 # Connect to PLC using Python-Snap7
 
-* Install snap7 library: ```pip install python-snap7```
+Install snap7 library: 
+```pip install python-snap7```
+
+Add the snap7.dll to python folder and configure the enviroment variables:
+
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/w10_snap7_config.png" width="600" align="center"/>
+</div>
+
 
 Snap7 Documentation: https://python-snap7.readthedocs.io/en/latest/installation.html#compile-from-source
 
