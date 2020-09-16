@@ -61,6 +61,8 @@ While specific requirements of a platform varies between organisations, developi
 
 The Elastic Stack comprises of a suite of open source products that enable users to take data from anywhere and search, analyse and visualise it in real-time.
 
+Example of use case for monitoring temperature anomaly: https://blog.codecentric.de/en/2019/10/apache-plc4x-elasticsearch-iiot-monitoring-anomaly-detection/
+
 # Software
 
 ## Node-Red
