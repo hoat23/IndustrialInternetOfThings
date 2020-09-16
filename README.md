@@ -18,6 +18,17 @@ adapt the data collection.
 - Step 5 Visualize: The entire intelligent and adaptive data collection process can be monitored
 and controlled in a visual fashion, based on proper dashboards.
 
+Every vendor use a specific protocol:
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/vendor_brand_specific_protocol.png" width="600" align="center"/>
+</div>
+
+Also, exists open protocols:
+
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/open_stantard_protocols.png" width="600" align="center"/>
+</div>
+
 # IT/OT Achitecture
 
 The Siemens IOT2040 module is the one that allows to link the industrial plant to the cloud, for security reasons it will only send data to the cloud, but it will leave the control of the industrial processes to the internal PLC.
