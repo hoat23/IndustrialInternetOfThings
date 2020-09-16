@@ -1,8 +1,11 @@
 # Industrial Internet of Things - Siemens - ElasticStack
 Documentation about me experience connecting a PLC to cloud (OT/IT).
 
-# Achitecture
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/loops_control_industries.png" width="600" align="center"/>
+</div>
 
+# Achitecture
 
 The Siemens IOT2040 module is the one that allows to link the industrial plant to the cloud, for security reasons it will only send data to the cloud, but it will leave the control of the industrial processes to the internal PLC.
 
