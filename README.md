@@ -132,7 +132,7 @@ Versions:
 * Ethernet connection between the engineering station and controller
 * SIMATIC IOT2000EDU Software Controller executable on IOT2020 and IOT2040
 
-# Connect to PLC using Snap7
+# Connect to PLC-Siemens using Snap7
 
 ## Installing Snap7 in Windows
 
@@ -145,6 +145,10 @@ Search the snap7 folder for snap7.dll and snap7.lib files Copy the snap7.dll and
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/w10_snap7_config.png" width="600" align="center"/>
 </div>
+
+## Installing Snap7 in SimaticIOT2040
+
+Comming soon.
 
 ## Connecting to PLC s7-1200
 
