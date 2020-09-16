@@ -1,4 +1,4 @@
-# Industrial Internet of Things - Siemens - ElasticStack
+# Industrial Internet of Things - (Siemens&ElasticStack)
 Documentation about me experience connecting a PLC to cloud (OT/IT).
 
 <div align="center">
