@@ -132,8 +132,9 @@ load_library() #Testing library is correctly <WinDLL 'C:\snap7\snap7.dll', handl
 plc = snap7.client.Client()
 plc.connect("10.112.115.10",0,1)
 
-#---Read DB---
-db = plc.db_read(1234,0,14)
+#---Read DB--- 
+# DB:10, start:0, size:8
+db = plc.db_read(10,0,8)
 real = struct.iter_unpack("!f",db[:12] )
 print( "3 x Real Vars:", [f for f, in real] )
 print( "3 x Bool Vars:", db[12]&1==1, db[12]&2==2, db[12]&4==4 )
