@@ -103,6 +103,11 @@ Versions:
 * Ethernet connection between the engineering station and controller
 * SIMATIC IOT2000EDU Software Controller executable on IOT2020 and IOT2040
 
+# Connect to PLC using Python-Snap7
+
+* Install snap7 library: ```pip install python-snap7```
+
+Snap7 Documentation: https://python-snap7.readthedocs.io/en/latest/installation.html#compile-from-source
 
 # Reference
 
