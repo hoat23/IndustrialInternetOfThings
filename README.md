@@ -231,7 +231,9 @@ In order to correctly read the data from the plc, the following steps must be fo
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_10.PNG" width="400" align="center"/>
 </div>
+
 ### Python example
+
 ```python
 import snap7
 import struct
