@@ -108,7 +108,7 @@ Versions:
 Install snap7 library: 
 ```pip install python-snap7```
 
-Add the snap7.dll to python folder and configure the enviroment variables:
+Search the snap7 folder for snap7.dll and snap7.lib files Copy the snap7.dll and snap7.lib into the "C:/PythonXX/site-packages/snap7 " directory:
 
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/w10_snap7_config.png" width="600" align="center"/>
