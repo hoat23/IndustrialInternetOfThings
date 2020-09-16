@@ -105,6 +105,8 @@ Versions:
 
 # Connect to PLC using Python-Snap7
 
+## Installing Snap7 in Windows
+
 Install snap7 library: 
 ```pip install python-snap7```
 
@@ -114,6 +116,24 @@ Search the snap7 folder for snap7.dll and snap7.lib files Copy the snap7.dll and
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/w10_snap7_config.png" width="600" align="center"/>
 </div>
+
+## Connecting to PLC s7-1200
+
+```python
+import snap7
+from snap7.util import *
+import struct
+
+
+plc = snap7.client.Client()
+plc.connect("10.112.115.10",0,1)
+
+#---Read DB---
+db = plc.db_read(1234,0,14)
+real = struct.iter_unpack("!f",db[:12] )
+print( "3 x Real Vars:", [f for f, in real] )
+print( "3 x Bool Vars:", db[12]&1==1, db[12]&2==2, db[12]&4==4 )
+```
 
 
 Snap7 Documentation: https://python-snap7.readthedocs.io/en/latest/installation.html#compile-from-source
