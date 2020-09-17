@@ -167,27 +167,9 @@ A video explanation see: https://www.youtube.com/watch?v=KJXU0PL1oNM
 * Ethernet connection between the engineering station and controller
 * SIMATIC IOT2000EDU Software Controller executable on IOT2020 and IOT2040
 
-# Connect to PLC-Siemens using Snap7
+# Connect to PLC-Siemens
 
-## Installing Snap7 in Windows
-
-Install snap7 library: 
-```pip install python-snap7```
-
-Download snap7 from https://sourceforge.net/projects/snap7/files/
-
-Search the snap7 folder for snap7.dll and snap7.lib files Copy the snap7.dll and snap7.lib into the "C:/PythonXX/site-packages/snap7 " directory:
-<div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/w10_snap7_config.png" width="600" align="center"/>
-</div>
-
-## Installing Snap7 in SimaticIOT2040
-
-Comming soon.
-
-## Connecting to PLC s7-1200
-
-###  How to configure data-blocks of PLC correctly
+##  How to configure data-blocks of PLC S7-1200 correctly
 
 In order to correctly read the data from the plc, the following steps must be followed.
 
@@ -232,13 +214,32 @@ In order to correctly read the data from the plc, the following steps must be fo
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_10.PNG" width="700" align="center"/>
 </div>
 
+## Installing Snap7 in Windows
+
+Install snap7 library: 
+```pip install python-snap7```
+
+Download snap7 from https://sourceforge.net/projects/snap7/files/
+
+Search the snap7 folder for snap7.dll and snap7.lib files Copy the snap7.dll and snap7.lib into the "C:/PythonXX/site-packages/snap7 " directory:
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/w10_snap7_config.png" width="600" align="center"/>
+</div>
+
+## Installing Snap7 in SimaticIOT2040
+
+Comming soon.
+
 ### Python example
 
 ```python
 import snap7
 import struct
+import logging
 from snap7.common import Snap7Library
 from snap7.util import *
+
+logging.basicConfig(level=logging.INFO)
 
 # If you are using a different location for the library
 Snap7Library(lib_location='C:/snap7/snap7.dll')
@@ -253,6 +254,16 @@ db = plc.db_read(10,0,8)
 real = struct.iter_unpack("!f",db[:6] )
 print( "3 x Real Vars:", [f for f, in real] )
 print( "3 x Bool Vars:", db[1]&1==1, db[2]&2==2, db[3]&4==4 )
+
+#---Write ---
+value_1 = 0b10110001
+value_2 = 480
+print("write 0b10110001 to V10")
+plc.write("V10", value_1)
+plc.write("V10.2", 0)
+
+VW20 = plc.read('VW20')
+print("VW20 : {0}".format(VW20))
 
 plc.destroy()
 ```
