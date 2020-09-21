@@ -126,16 +126,43 @@ A video explanation see: https://www.youtube.com/watch?v=KJXU0PL1oNM
 * If it's still not uninstalled, type where node at the command prompt and you'll see where it resides -- delete that (and probably the parent directory) too.
 * Reboot, for good measure.
 
-# Online Broker MQQT 
+# Broker MQTT 
+
+## Why use a broker MQTT
+
+...
+
+# Online Broker-MQTT
 
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/brokers_oit.png" width="400" align="center"/>
 </div>
 
+## Configuration a broker in Shiftr.io
 We used broker online like "shiftr.io" for fast deployment. For configurate just follow the next steps:
 1. Create account in shiftr.io using your email.
-2. Configurate a general token.
-3. Connect node-red using shiftr token.
+2. Login with you account in shiftr.io.
+4. Create a new-namespace.
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/create_new_namespace_shiftr.png" width="230" align="center"/>
+</div>
+5. Fill the white spaces.
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/create_broker_mqtt_shiftr.png" width="400" align="center"/>
+</div>
+6. Create a token clicking on "Namespace settings".
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/create_token_shiftr.png" width="400" align="center"/>
+</div>
+7. White by loading and clink on "Add Token".
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/add_token_shiftr.png" width="400" align="center"/>
+</div>
+8. Type the username and password token.
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/typing_usr_pasw_token_shiftr.png" width="400" align="center"/>
+</div>
+9.You can write data to broker-mqtt using: mqtt://mykeyusername:mysecretpassword@broker.shiftr.io
 
 # Hardware
 
