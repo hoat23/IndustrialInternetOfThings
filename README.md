@@ -126,6 +126,17 @@ A video explanation see: https://www.youtube.com/watch?v=KJXU0PL1oNM
 * If it's still not uninstalled, type where node at the command prompt and you'll see where it resides -- delete that (and probably the parent directory) too.
 * Reboot, for good measure.
 
+# Online Broker MQQT 
+
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/brokers_oit.png" width="400" align="center"/>
+</div>
+
+We used broker online like "shiftr.io" for fast deployment. For configurate just follow the next steps:
+1. Create account in shiftr.io using your email.
+2. Configurate a general token.
+3. Connect node-red using shiftr token.
+
 # Hardware
 
 ## Simatic S7-1200
