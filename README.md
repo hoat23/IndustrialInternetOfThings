@@ -71,7 +71,7 @@ Example of use case for monitoring temperature anomaly: https://blog.codecentric
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/node_red_flow_example.gif" width="600" align="center"/>
 </div>
 
-### Installing in Windows 
+### Deploying in Windows 
 
 * Download and install nodejs from: https://nodejs.org/en/
 * Check version using this command: ```node -v```
@@ -92,7 +92,21 @@ Versions:
  - Node.js version: 12.18.2
  - npm version: 6.14.5
 
-### Installing in Docker
+#### Remove from windows
+* Run this command: npm cache clean --force
+* Uninstall from Programs & Features with the uninstaller.
+* Reboot (or you probably can get away with killing all node-related processes from Task Manager). Look for these folders and remove them (and their contents) if any still exist. Depending on the version you installed, UAC settings, and CPU architecture, these may or may not exist:
+  * C:\Program Files (x86)\Nodejs
+  * C:\Program Files\Nodejs
+  * C:\Users\{User}\AppData\Roaming\npm (or %appdata%\npm)
+  * C:\Users\{User}\AppData\Roaming\npm-cache (or %appdata%\npm-cache)
+  * C:\Users\{User}\.npmrc (and possibly check for that without the . prefix too)
+  * C:\Users\{User}\AppData\Local\Temp\npm-*
+  * Check your %PATH% environment variable to ensure no references to Nodejs or npm exist.
+* If it's still not uninstalled, type where node at the command prompt and you'll see where it resides -- delete that (and probably the parent directory) too.
+* Reboot, for good measure.
+
+### Deploying in Docker
 
 We create a file 'docker-compose.yml' with this content:
 
@@ -112,19 +126,15 @@ services:
 ``` 
 A video explanation see: https://www.youtube.com/watch?v=KJXU0PL1oNM
 
-### Remove from windows
-* Run this command: npm cache clean --force
-* Uninstall from Programs & Features with the uninstaller.
-* Reboot (or you probably can get away with killing all node-related processes from Task Manager). Look for these folders and remove them (and their contents) if any still exist. Depending on the version you installed, UAC settings, and CPU architecture, these may or may not exist:
-  * C:\Program Files (x86)\Nodejs
-  * C:\Program Files\Nodejs
-  * C:\Users\{User}\AppData\Roaming\npm (or %appdata%\npm)
-  * C:\Users\{User}\AppData\Roaming\npm-cache (or %appdata%\npm-cache)
-  * C:\Users\{User}\.npmrc (and possibly check for that without the . prefix too)
-  * C:\Users\{User}\AppData\Local\Temp\npm-*
-  * Check your %PATH% environment variable to ensure no references to Nodejs or npm exist.
-* If it's still not uninstalled, type where node at the command prompt and you'll see where it resides -- delete that (and probably the parent directory) too.
-* Reboot, for good measure.
+## Deploying in IBM-Cloud.
+
+1. Create an account in https://cloud.ibm.com/login
+2. Logging in IBM-Cloud.
+3. On IBM-Console type "node-red app" and click on butoon.
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/ibmcloud_search_node_red.png" width="700" align="center"/>
+</div>
+4. Wait by load.
 
 # Broker MQTT 
 
