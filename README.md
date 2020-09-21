@@ -130,7 +130,7 @@ A video explanation see: https://www.youtube.com/watch?v=KJXU0PL1oNM
 
 ## When you need a broker-mqtt?
 - When you have two or more sucriptors controlling multiple devices.
-- When you bandwidth are bad and with problems of communications.
+- When you bandwidth are bad and with problems of comunications.
 - Not need, when you only reading data from devices (by monitoring).
 
 ## Online Broker-MQTT
