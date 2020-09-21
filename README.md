@@ -154,7 +154,7 @@ We used broker online like "shiftr.io" for fast deployment. For configurate just
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/create_token_shiftr.png" width="400" align="center"/>
 </div>
-7. White by loading and clink on "Add Token".
+7. Wait by load, and after clink on "Add Token".
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/add_token_shiftr.png" width="400" align="center"/>
 </div>
