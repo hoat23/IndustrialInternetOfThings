@@ -132,55 +132,55 @@ A video explanation see: https://www.youtube.com/watch?v=KJXU0PL1oNM
 2. Logging in IBM-Cloud.
 3. On IBM-Console type "node-red app" and click on butoon.
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_01.png" width="700" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_01.png" width="600" align="center"/>
 </div>
 4. Wait by load.
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_02.png" width="700" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_02.png" width="600" align="center"/>
 </div>
 5. Type the data required and click on create.
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_03.png" width="700" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_03.png" width="600" align="center"/>
 </div>
 6. Click on "Desplegar su aplicación".
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_04.png" width="700" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_04.png" width="600" align="center"/>
 </div>
 7. Configurate the api-key.
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_05.png" width="700" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_05.png" width="600" align="center"/>
 </div>
 8. Click on own name server, that defined preview.
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_06.png" width="700" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_06.png" width="600" align="center"/>
 </div>
 9. Wait by finish deploying. After, click on "view console".
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_07.png" width="700" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_07.png" width="600" align="center"/>
 </div>
 10. Lauch application doing click on "visit url of the app".
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_08.png" width="700" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_08.png" width="600" align="center"/>
 </div>
 11. Click on "next". Create a username and password, like below:
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_09.png" width="700" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_09.png" width="300" align="center"/>
 </div>
 12. Click on "Next" and after click on "Finish". Wait by applying the settings.
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_12.png" width="700" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_10.png" width="300" align="center"/>
 </div>
 13. Click on "Go to node-red flow editor".
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_11.png" width="700" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_11.png" width="600" align="center"/>
 </div>
 14. Write you username and pasword created in eleven step and click on "Login".
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_11.png" width="300" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_12.png" width="600" align="center"/>
 </div>
 15. Now you can use the "node-red".
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_12.png" width="700" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_13.png" width="600" align="center"/>
 </div>
 
 # Broker MQTT 
