@@ -154,7 +154,35 @@ A video explanation see: https://www.youtube.com/watch?v=KJXU0PL1oNM
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_06.png" width="700" align="center"/>
 </div>
-9. 
+9. Wait by finish deploying. After, click on "view console".
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_07.png" width="700" align="center"/>
+</div>
+10. Lauch application doing click on "visit url of the app".
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_08.png" width="700" align="center"/>
+</div>
+11. Click on "next". Create a username and password, like below:
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_09.png" width="700" align="center"/>
+</div>
+12. Click on "Next" and after click on "Finish". Wait by applying the settings.
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_12.png" width="700" align="center"/>
+</div>
+13. Click on "Go to node-red flow editor".
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_11.png" width="700" align="center"/>
+</div>
+14. Write you username and pasword created in eleven step and click on "Login".
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_11.png" width="300" align="center"/>
+</div>
+15. Now you can use the "node-red".
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_12.png" width="700" align="center"/>
+</div>
+
 # Broker MQTT 
 
 ## When you need a broker-mqtt?
