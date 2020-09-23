@@ -106,6 +106,10 @@ Versions:
 * If it's still not uninstalled, type where node at the command prompt and you'll see where it resides -- delete that (and probably the parent directory) too.
 * Reboot, for good measure.
 
+### Deploying in Simatic-IoT2040
+
+Comming soon
+
 ### Deploying in Docker
 
 We create a file 'docker-compose.yml' with this content:
@@ -126,7 +130,7 @@ services:
 ``` 
 A video explanation see: https://www.youtube.com/watch?v=KJXU0PL1oNM
 
-## Deploying in IBM-Cloud.
+### Deploying in IBM-Cloud.
 
 1. Create an account in https://cloud.ibm.com/login
 2. Logging in IBM-Cloud.
@@ -182,6 +186,10 @@ A video explanation see: https://www.youtube.com/watch?v=KJXU0PL1oNM
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_13.png" width="600" align="center"/>
 </div>
+
+#### IBM Documentation
+- https://developer.ibm.com/tutorials/how-to-create-a-node-red-starter-application/
+- https://flows.nodered.org/
 
 # Broker MQTT 
 
