@@ -318,7 +318,9 @@ In order to correctly read the data from the plc, the following steps must be fo
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/plc_10.PNG" width="700" align="center"/>
 </div>
 
-## Installing Snap7 in Windows
+## Python - PLC S7-1200
+
+### Installing Snap7 in Windows
 
 Install snap7 library: 
 ```pip install python-snap7```
@@ -330,11 +332,11 @@ Search the snap7 folder for snap7.dll and snap7.lib files Copy the snap7.dll and
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/w10_snap7_config.png" width="600" align="center"/>
 </div>
 
-## Installing Snap7 in SimaticIOT2040
+### Installing Snap7 in SimaticIOT2040
 
 Comming soon.
 
-### Python example
+### Python Code
 
 ```python
 import snap7
@@ -372,16 +374,18 @@ print("VW20 : {0}".format(VW20))
 plc.destroy()
 ```
 
-### Node-red example
-
-Comming soon.
-
-
 ### Snap7 Documentation: 
 
 - https://python-snap7.readthedocs.io/en/latest/installation.html#compile-from-source
 - https://readthedocs.org/projects/python-snap7/downloads/pdf/latest/
 - https://www.npmjs.com/package/node-snap7/v/0.1.2
+
+## Node-Red
+
+### Connecting Node-Red with Broker-MQTT
+Comming soon.
+### Connecting Node-Red with PLC S7-1200
+Comming soon.
 
 # More Information
 
