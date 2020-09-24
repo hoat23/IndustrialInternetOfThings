@@ -180,7 +180,7 @@ A video explanation see: https://www.youtube.com/watch?v=KJXU0PL1oNM
 </div>
 14. Write you username and pasword created in eleven step and click on "Login".
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_12.png" width="600" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/ibmcloud_12.png" width="400" align="center"/>
 </div>
 15. Now you can use the "node-red".
 <div align="center">
