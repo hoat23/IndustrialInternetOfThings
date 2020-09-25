@@ -435,7 +435,7 @@ Similar to before, just follow this steps:
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_07.png" width="400" align="center"/>
 </div>
-3. Fill the configuration using the broker configuration preview created. Write server "broker.shiftr.io", port "1883", and client ID "hoat23".
+3. Fill the configuration using the broker configuration preview created. Write server "broker.shiftr.io", port "1883", and client ID "IBM-Cloud".
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_08.png" width="400" align="center"/>
 </div>
@@ -451,6 +451,16 @@ Similar to before, just follow this steps:
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_11.png" width="600" align="center"/>
 </div>
+
+"Hoat23" is a localhost, this recollecting data and "IBM-Cloud" receiving the data.
+
+Finally, in brocker-shiftr we can see the 2 modules connecting, like image below:
+
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_11.png" width="600" align="center"/>
+</div>
+
+
 ### Connecting Node-Red with PLC S7-1200
 
 comming soon
