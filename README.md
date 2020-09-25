@@ -237,6 +237,10 @@ We used broker online like "shiftr.io" for fast deployment. For configurate just
 
 # Hardware
 
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/photo_plc_iot.PNG" width="400" align="center"/>
+</div>
+
 ## Simatic S7-1200
 
 ### Some Details
