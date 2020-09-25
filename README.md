@@ -229,11 +229,11 @@ We used broker online like "shiftr.io" for fast deployment. For configurate just
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/typing_usr_pasw_token_shiftr.png" width="400" align="center"/>
 </div>
 9.You can write data to broker-mqtt using a similar configuration: (mqtt://mykeyusername:mysecretpassword@broker.shiftr.io)
-	- Server: broker.shiftr.io
-	- User: mykeyusername
-	- Password: mysecretpassword
-	- Port: 1883
-	- Protocol: mqtt
+  - Server: broker.shiftr.io
+  - User: mykeyusername
+  - Password: mysecretpassword
+  - Port: 1883
+  - Protocol: mqtt
 
 # Hardware
 
@@ -409,7 +409,7 @@ plc.destroy()
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_05.png" width="400" align="center"/>
 </div>
-6. Click on "Done". If don't worse in configuration you see "conected" and gree button in "mqtt node".
+6. Click on "Done". If that configuration is rigth you would see "connected" and green rectangle in "mqtt node".
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_06.png" width="600" align="center"/>
 </div>
