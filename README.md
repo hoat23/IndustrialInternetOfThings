@@ -465,15 +465,15 @@ Finally, in brocker-shiftr we can see the 2 modules connecting, like image below
 #### Installing S7 nodes
 1. Go to "Manage palete".
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_s7_01.png" width="600" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_s7_01.png" width="400" align="center"/>
 </div>
 2. Search by "node-red-contrib-s7" and click on "Install".
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_s7_03.png" width="600" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_s7_03.png" width="400" align="center"/>
 </div>
 4. Click on install again.
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_s7_04.png" width="300" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_s7_04.png" width="340" align="center"/>
 </div>
 5. Wait by installing. If don't have error, now can use the s7 nodes
 <div align="center">
