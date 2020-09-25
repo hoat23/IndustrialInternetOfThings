@@ -471,11 +471,11 @@ Finally, in brocker-shiftr we can see the 2 modules connecting, like image below
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_s7_03.png" width="400" align="center"/>
 </div>
-4. Click on install again.
+3. Click on install again.
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_s7_04.png" width="340" align="center"/>
 </div>
-5. Wait by installing. If don't have error, now can use the s7 nodes
+4. Wait by installing. If don't have error, now can use the s7 nodes
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_s7_05.png" width="120" align="center"/>
 </div>
