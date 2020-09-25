@@ -391,7 +391,7 @@ plc.destroy()
 #### Send data to Broker-MQTT
 1. Search by MQTT nodes, it's like this:
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_01.png" width="250" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_01.png" width="120" align="center"/>
 </div>
 2. Click on "mqtt in", drag and drop in workspace. After double click in this node for set the configuration:
 <div align="center">
@@ -410,8 +410,10 @@ plc.destroy()
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_05.png" width="500" align="center"/>
 </div>
 6. Click on "Done". If don't worse in configuration you see "conected" and gree button in "mqtt node".
+<div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_06.png" width="500" align="center"/>
 </div>
+
 #### Receive data from Broker-MQTT
 
 ### Connecting Node-Red with PLC S7-1200
