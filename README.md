@@ -452,14 +452,13 @@ Similar to before, just follow this steps:
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_11.png" width="600" align="center"/>
 </div>
 
-"Hoat23" is a localhost, this recollecting data and "IBM-Cloud" receiving the data.
-
 Finally, in brocker-shiftr we can see the 2 modules connecting, like image below:
 
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_11.png" width="600" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_12.png" width="400" align="center"/>
 </div>
 
+"Hoat23" is a localhost, this recollecting data and "IBM-Cloud" receiving the data.
 
 ### Connecting Node-Red with PLC S7-1200
 
