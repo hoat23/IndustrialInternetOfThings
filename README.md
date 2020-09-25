@@ -462,7 +462,36 @@ Finally, in brocker-shiftr we can see the 2 modules connecting, like image below
 
 ### Connecting Node-Red with PLC S7-1200
 
-comming soon
+#### Installing S7 nodes
+1. Go to "Manage palete".
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_s7_01.png" width="600" align="center"/>
+</div>
+2. Click on "Install" and write "s7".
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_s7_02.png" width="600" align="center"/>
+</div>
+3. Search by "node-red-contrib-s7" and click on "Install".
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_s7_04.png" width="600" align="center"/>
+</div>
+3. Search by "node-red-contrib-s7" and click on "Install".
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_s7_04.png" width="600" align="center"/>
+</div>
+4. Click on install again.
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_s7_05.png" width="600" align="center"/>
+</div>
+5. Wait by installing. If don't have error, now can use the s7 nodes
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_s7_06.png" width="600" align="center"/>
+</div>
+
+#### Read data from S7-1200
+Comming soon.
+#### Write data on S7-1200
+Comming soon.
 
 # More Information
 
