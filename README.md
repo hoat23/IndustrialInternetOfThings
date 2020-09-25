@@ -425,10 +425,35 @@ A usually architecture in IoT is connect a "localhost" with a "broker" using a "
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_06.png" width="600" align="center"/>
 </div>
 
-#### Receive data from Broker-MQTT
-
+#### Receiving data from Broker-MQTT
+Similar to before, just follow this steps:
+1. Search by MQTT nodes, it's like this:
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_01.png" width="120" align="center"/>
+</div>
+2. Click on "mqtt out", drag and drop in workspace. After double click in this node for set the configuration:
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_07.png" width="400" align="center"/>
+</div>
+3. Fill the configuration using the broker configuration preview created. Write server "broker.shiftr.io", port "1883", and client ID "hoat23".
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_08.png" width="400" align="center"/>
+</div>
+4. Fill the security configuration, for this case user: "mykeyusername" and password: "mysecretpassword".
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_09.png" width="400" align="center"/>
+</div>
+5. Set node-name to "shiftr-io-hoat23" and click on "Update". After write in topic, QoS and Retain similar to this image:
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_10.png" width="400" align="center"/>
+</div>
+6. Click on "Done". If that configuration is rigth you would see "connected" and green rectangle in "mqtt node".
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_11.png" width="600" align="center"/>
+</div>
 ### Connecting Node-Red with PLC S7-1200
-Comming soon.
+
+comming soon
 
 # More Information
 
