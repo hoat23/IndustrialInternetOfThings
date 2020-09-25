@@ -392,7 +392,7 @@ plc.destroy()
 A usually architecture in IoT is connect a "localhost" with a "broker" using a "node-red" like a intermediary.
 
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_shiftr_ibmcloud.png" width="700" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/nodered_shiftr_ibmcloud.png" width="700" align="center"/>
 </div>
 
 #### Send data to Broker-MQTT
