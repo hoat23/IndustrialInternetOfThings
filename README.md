@@ -395,23 +395,23 @@ plc.destroy()
 </div>
 2. Click on "mqtt in", drag and drop in workspace. After double click in this node for set the configuration:
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_02.png" width="500" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_02.png" width="400" align="center"/>
 </div>
 3. Fill the configuration using the broker configuration preview created. Write server "broker.shiftr.io", port "1883", and client ID "hoat23".
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_03.png" width="500" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_03.png" width="400" align="center"/>
 </div>
 4. Fill the security configuration, for this case user: "mykeyusername" and password: "mysecretpassword".
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_04.png" width="500" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_04.png" width="400" align="center"/>
 </div>
 5. Set node-name to "shiftr-io-hoat23" and click on "Update". After write in topic, QoS and Retain similar to this image:
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_05.png" width="500" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_05.png" width="400" align="center"/>
 </div>
 6. Click on "Done". If don't worse in configuration you see "conected" and gree button in "mqtt node".
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_06.png" width="500" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_06.png" width="600" align="center"/>
 </div>
 
 #### Receive data from Broker-MQTT
