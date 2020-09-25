@@ -228,7 +228,12 @@ We used broker online like "shiftr.io" for fast deployment. For configurate just
 <div align="center">
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/typing_usr_pasw_token_shiftr.png" width="400" align="center"/>
 </div>
-9.You can write data to broker-mqtt using: mqtt://mykeyusername:mysecretpassword@broker.shiftr.io
+9.You can write data to broker-mqtt using a similar configuration: (mqtt://mykeyusername:mysecretpassword@broker.shiftr.io)
+	- Server: broker.shiftr.io
+	- User: mykeyusername
+	- Password: mysecretpassword
+	- Port: 1883
+	- Protocol: mqtt
 
 # Hardware
 
@@ -383,7 +388,32 @@ plc.destroy()
 ## Node-Red
 
 ### Connecting Node-Red with Broker-MQTT
-Comming soon.
+#### Send data to Broker-MQTT
+1. Search by MQTT nodes, it's like this:
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_01.png" width="700" align="center"/>
+</div>
+2. Click on "mqtt in", drag and drop in workspace. After double click in this node for set the configuration:
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_02.png" width="700" align="center"/>
+</div>
+3. Fill the configuration using the broker configuration preview created. Write server "broker.shiftr.io", port "1883", and client ID "hoat23".
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_03.png" width="700" align="center"/>
+</div>
+4. Fill the security configuration, for this case user: "mykeyusername" and password: "mysecretpassword".
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_04.png" width="700" align="center"/>
+</div>
+5. Set node-name to "shiftr-io-hoat23" and click on "Update". After write in topic, QoS and Retain similar to this image:
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_04.png" width="700" align="center"/>
+</div>
+6. Click on "Done". If don't worse in configuration you see "conected" and gree button in "mqtt node".
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_mqtt_05.png" width="700" align="center"/>
+</div>
+#### Receive data from Broker-MQTT
+
 ### Connecting Node-Red with PLC S7-1200
 Comming soon.
 
