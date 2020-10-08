@@ -204,6 +204,8 @@ A video explanation see: https://www.youtube.com/watch?v=KJXU0PL1oNM
 <img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/brokers_oit.png" width="400" align="center"/>
 </div>
 
+Link with differents brokers online: https://mntolia.com/10-free-public-private-mqtt-brokers-for-testing-prototyping/
+
 ## Configuration a broker in Shiftr.io
 We used broker online like "shiftr.io" for fast deployment. For configurate just follow the next steps:
 1. Create account in shiftr.io using your email.
