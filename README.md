@@ -237,6 +237,8 @@ We used broker online like "shiftr.io" for fast deployment. For configurate just
   - Port: 1883
   - Protocol: mqtt
 
+If you want to add certificates just follow this steps https://gist.github.com/hoat23/f71d081d06c3667f61106784f0c4ea8e.
+
 # Hardware
 
 <div align="center">
