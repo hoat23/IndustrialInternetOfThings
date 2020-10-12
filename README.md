@@ -6,6 +6,7 @@ Documentation about me experience connecting a PLC to cloud (OT/IT).
 </div>
 
 The architecture specifies a five-step process:
+
 - Step 1 Data Collection: Security related information is collected from the probes, including
 system level and application level probes as specified in the architecture.
 - Step 2 Routing: Security information is routed to data stores and data analytics engines at
