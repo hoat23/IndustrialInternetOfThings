@@ -58,5 +58,8 @@ If you finished without issues, the new ip of your iot2040 is 192.168.0.32.
 - Change the IP, like you are in the notebook.
 - You can exit the program again with key combination Ctrl+X. Any changes can be accepted with Y or discarded with N.
 
+# More information
+
+- https://www.automation.siemens.com/sce-static/learning-training-documents/tia-portal/hw-config-iot2000/sce-014-101-hardware-configuration-iot2000edu-r1806-en.pdf
 
 
