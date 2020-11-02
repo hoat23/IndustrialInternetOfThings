@@ -56,6 +56,25 @@ If you finished without issues, the new ip of your iot2040 is 192.168.0.32.
 ## Custom the IP address of IoT2040 using /etc/network/interfaces
 - Open file configuration typing the command:  nano /etc/network/interfaces
 - Change the IP, like you are in the notebook.
+- Add a gateway for installing package from internet
+```
+# /etc/network/interfaces -- configuration file for ifup(8), ifdown(8)
+# The loopback interface
+auto lo
+iface lo inet loopback
+
+auto eth0
+iface eth0 inet static
+        address 192.168.0.32
+        netmask 255.255.255.0
+        gateway 192.168.0.1
+
+auto eth1
+iface eth1 inet static
+        address 192.168.0.33
+        netmask 255.255.255.0
+        gateway 192.168.0.1
+```
 - You can exit the program again with key combination Ctrl+X. Any changes can be accepted with Y or discarded with N.
 
 # Node-RED Autostart
