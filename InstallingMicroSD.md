@@ -42,8 +42,21 @@ On Windows use [DiskInternals Linux Reader](https://www.diskinternals.com/thanks
 
 # Change configuration of IoT2040
 
-## Custom the IP addres of IoT2040 using iot2000setup
+## Custom the IP address of IoT2040 using iot2000setup
 
+- Connect to device using ssh.
+- Enter "iot2000setup" and wait by interface.
+- Select "Networking" and press ENTER.
+- Select "OK" using TAB key, and press ENTER.
+- Change the IP of eth0 to 192.168.0.32
+- Confirm the changes using the "OK" field.
+
+If you finished without issues, the new ip of your iot2040 is 192.168.0.32.
+
+## Custom the IP address of IoT2040 using /etc/network/interfaces
+- Open file configuration typing the command:  nano /etc/network/interfaces
+- Change the IP, like you are in the notebook.
+- You can exit the program again with key combination Ctrl+X. Any changes can be accepted with Y or discarded with N.
 
 
 
