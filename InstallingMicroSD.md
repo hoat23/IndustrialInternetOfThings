@@ -19,5 +19,5 @@
 
 ## Reading or Writing data on Linux partition (Ext4)
 
-On Windows use [DiskInternals Linux Reader](https://www.diskinternals.com/thanks/?utm_source=exefile&utm_medium=linux_reader&utm_campaign=install&dd=https%3A%2F%2Feu.diskinternals.com%2Fdownload%2FLinux_Reader.exe) for explore the linux partition.
+On Windows use [DiskInternals Linux Reader](https://www.diskinternals.com/thanks/?utm_source=exefile&utm_medium=linux_reader&utm_campaign=install&dd=https%3A%2F%2Feu.diskinternals.com%2Fdownload%2FLinux_Reader.exe) for explore the linux partition. Other option can be [ext2fsd](http://www.ext2fsd.com/?page_id=25)
 
