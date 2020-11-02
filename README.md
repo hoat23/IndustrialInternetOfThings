@@ -109,7 +109,8 @@ Versions:
 
 ### Deploying in Simatic-IoT2040
 
-Comming soon
+Write the image of SO in your SD card, following this instructions: https://github.com/hoat23/IndustrialInternetOfThings/blob/master/InstallingMicroSD.md
+
 
 ### Deploying in Docker
 
