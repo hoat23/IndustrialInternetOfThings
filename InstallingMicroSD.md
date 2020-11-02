@@ -58,6 +58,15 @@ If you finished without issues, the new ip of your iot2040 is 192.168.0.32.
 - Change the IP, like you are in the notebook.
 - You can exit the program again with key combination Ctrl+X. Any changes can be accepted with Y or discarded with N.
 
+# Node-RED Autostart
+
+- Connect to device using ssh.
+- In the terminal enter: iot2000setup
+- Locate the cursor in the "software" option.
+- Select “Manage Autostart Options” ” and press the bar space to select the option (*).
+- To finish, press "Done". 
+- Reboot the device with command "reboot".
+
 # More information
 
 - https://www.automation.siemens.com/sce-static/learning-training-documents/tia-portal/hw-config-iot2000/sce-014-101-hardware-configuration-iot2000edu-r1806-en.pdf
