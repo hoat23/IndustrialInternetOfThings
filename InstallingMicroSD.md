@@ -82,6 +82,7 @@ iface eth1 inet static
 - nano /etc/resolv.conf
 - Add "nameserver 8.8.8.8" and  "nameserver 192.168.0.1"
 - Exit the program again with key combination Ctrl+X. Any changes can be accepted with Y.
+- made /etc/resolv.conf immutable with this command:chattr -f +i /etc/resolv.conf
 - Reboot device.
 
 Reference: https://support.industry.siemens.com/tf//WW/en/posts/dns-setup-with-fixed-ip/162724?page=0&pageSize=10
