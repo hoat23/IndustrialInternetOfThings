@@ -84,6 +84,8 @@ iface eth1 inet static
 - Exit the program again with key combination Ctrl+X. Any changes can be accepted with Y.
 - Reboot device.
 
+Reference: https://support.industry.siemens.com/tf//WW/en/posts/dns-setup-with-fixed-ip/162724?page=0&pageSize=10
+
 # Node-RED Autostart
 
 - Connect to device using ssh.
