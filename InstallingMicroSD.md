@@ -78,7 +78,8 @@ iface eth1 inet static
 - You can exit the program again with key combination Ctrl+X. Any changes can be accepted with Y or discarded with N.
 
 # Configurate nameserver for conection to internet
-
+- Connect to device using ssh.
+- In command line entry: unlink /etc/resolv.conf
 - nano /etc/resolv.conf
 - Add "nameserver 8.8.8.8" and  "nameserver 192.168.0.1"
 - Exit the program again with key combination Ctrl+X. Any changes can be accepted with Y.
