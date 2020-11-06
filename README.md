@@ -504,11 +504,11 @@ The data received from the MQTT server will send to elasticsearch for analytics 
 1. Convert to json format.
 2. Adding the header:
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_elasticsearch_01.png" width="250" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_elasticsearch_01.png" width="350" align="center"/>
 </div>
 3. POST data to ElasticSearch:
 <div align="center">
-<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_elasticsearch_02.png" width="250" align="center"/>
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_elasticsearch_02.png" width="350" align="center"/>
 </div>
 4. Add debug node by print response from ElasticSearch.
 
