@@ -491,6 +491,17 @@ Comming soon.
 #### Write data on S7-1200
 Comming soon.
 
+### Connecting Node-Red with ElasticSearch
+
+#### Write data on ElasticSearch
+
+The data received from the MQTT server will send to elasticsearch for analytics and visualization in Kibana. The nodes and flows configurated show bellow:
+
+<div align="center">
+<img src="https://github.com/hoat23/IndustrialInternetOfThings/blob/master/img/steps/nodered_2_elasticsearch_00.PNG" width="500" align="center"/>
+</div>
+
+
 # More Information
 
 - Siemens-IOT2000 configuration: https://www.automation.siemens.com/sce-static/learning-training-documents/tia-portal/hw-config-iot2000/sce-014-101-hardware-configuration-iot2000edu-r1806-en.pdf
