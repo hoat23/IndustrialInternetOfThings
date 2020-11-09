@@ -75,6 +75,7 @@ iface eth1 inet static
         netmask 255.255.255.0
         gateway 192.168.0.1
 ```
+- Apply changes ```sudo service networking restart```.
 - You can exit the program again with key combination Ctrl+X. Any changes can be accepted with Y or discarded with N.
 
 # Configurate nameserver for conection to internet
@@ -84,7 +85,7 @@ iface eth1 inet static
 - Add "nameserver 8.8.8.8" and  "nameserver 192.168.0.1"
 - Exit the program again with key combination Ctrl+X. Any changes can be accepted with Y.
 - made /etc/resolv.conf immutable with this command: ```chattr -f +i /etc/resolv.conf```
-- Reboot device.
+- Apply changes ```sudo service networking restart```.
 
 Reference: https://support.industry.siemens.com/tf//WW/en/posts/dns-setup-with-fixed-ip/162724?page=0&pageSize=10
 
