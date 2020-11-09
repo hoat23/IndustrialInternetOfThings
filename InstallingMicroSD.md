@@ -79,19 +79,24 @@ iface eth1 inet static
 
 # Configurate nameserver for conection to internet
 - Connect to device using ssh.
-- In command line entry: unlink /etc/resolv.conf
-- nano /etc/resolv.conf
+- In command line entry: ```unlink /etc/resolv.conf```
+- Entry: ```nano /etc/resolv.conf```
 - Add "nameserver 8.8.8.8" and  "nameserver 192.168.0.1"
 - Exit the program again with key combination Ctrl+X. Any changes can be accepted with Y.
-- made /etc/resolv.conf immutable with this command:chattr -f +i /etc/resolv.conf
+- made /etc/resolv.conf immutable with this command: ```chattr -f +i /etc/resolv.conf```
 - Reboot device.
 
 Reference: https://support.industry.siemens.com/tf//WW/en/posts/dns-setup-with-fixed-ip/162724?page=0&pageSize=10
 
+# Node-RED Start
+Just do this for developer mode or install packages, after start like a service mode.
+- Connect to device using ssh.
+- In the terminal enter: ```node  /usr/lib/node/node-red/red &``` 
+
 # Node-RED Autostart
 
 - Connect to device using ssh.
-- In the terminal enter: iot2000setup
+- In the terminal enter: ```iot2000setup```
 - Locate the cursor in the "software" option.
 - Select “Manage Autostart Options” ” and press the bar space to select the option (*).
 - To finish, press "Done". 
