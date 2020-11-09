@@ -88,12 +88,14 @@ iface eth1 inet static
 
 Reference: https://support.industry.siemens.com/tf//WW/en/posts/dns-setup-with-fixed-ip/162724?page=0&pageSize=10
 
-# Node-RED Start
+# Node-RED 
+
+## Start
 Just do this for developer mode or install packages, after start like a service mode.
 - Connect to device using ssh.
 - In the terminal enter: ```node  /usr/lib/node/node-red/red &``` 
 
-# Node-RED Autostart
+## Autostart
 
 - Connect to device using ssh.
 - In the terminal enter: ```iot2000setup```
