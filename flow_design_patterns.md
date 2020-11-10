@@ -1,4 +1,4 @@
-# Basic Patterns in Node-Red
+# BASIC PATTERNS
 
 ## Sample data every 1 second
 
