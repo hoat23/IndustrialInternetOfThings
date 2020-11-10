@@ -523,3 +523,4 @@ Comming soon.
 - https://github.com/apache/plc4x
 - https://secureiot.eu/sites/default/files/SECUREIoT_D3.3-Intelligent%20Data%20Collection%20Mechanisms%20and%20APIs-First%20Version-Final_v11.pdf
 - https://www.maffucci.it/wp-content/uploads/2020/02/SIMATIC_IOT2000_Setting_up_V2.1.1.pdf
+- https://flows.nodered.org/node/node-red-contrib-msg-queue
