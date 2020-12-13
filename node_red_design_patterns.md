@@ -47,3 +47,4 @@ C:\Users\<USER>\.node-red\node_modules
 ```
 ## More Information
 - http://linkedbuildingdata.net/ldac2019/summerschool/files/05_Terkaj_Node_Red_Tutorial_Lecture.pdf
+- https://blog.josequinto.com/2017/06/23/npm-install-fails-on-windows-10-enoent-4058-operation-not-permitted-rename/#Environment
