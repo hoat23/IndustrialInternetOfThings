@@ -24,8 +24,14 @@ npm install <package>@<version>
 ```
 
 ### See information of lastest package
+```bash
+npm view <PACKAGE-VERSION>@latest
 ```
-npm view request@latest
+
+### See problems with packages 
+Print in console the problems with errors and dependencies to install.
+```bash
+npm audit fix
 ```
 
 ## More Information
