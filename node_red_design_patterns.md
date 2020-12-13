@@ -18,5 +18,15 @@
 npm info <PACKAGE-NAME> version
 ```
 
+### Install package
+```
+npm install <package>@<version>
+```
+
+### See information of lastest package
+```
+npm view request@latest
+```
+
 ## More Information
 - http://linkedbuildingdata.net/ldac2019/summerschool/files/05_Terkaj_Node_Red_Tutorial_Lecture.pdf
