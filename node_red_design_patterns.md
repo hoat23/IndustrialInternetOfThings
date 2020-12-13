@@ -18,6 +18,11 @@
 npm info <PACKAGE-NAME> version
 ```
 
+### See the global package installed
+```
+npm list -g --depth 0
+```
+
 ### Install package
 ```
 npm install <package>@<version>
