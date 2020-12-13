@@ -34,5 +34,11 @@ Print in console the problems with errors and dependencies to install.
 npm audit fix
 ```
 
+### Path to Node-red
+
+#### Windows 
+```
+C:\Users\<USER>\.node-red\node_modules
+```
 ## More Information
 - http://linkedbuildingdata.net/ldac2019/summerschool/files/05_Terkaj_Node_Red_Tutorial_Lecture.pdf
