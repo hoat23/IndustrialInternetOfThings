@@ -34,6 +34,11 @@ Print in console the problems with errors and dependencies to install.
 npm audit fix
 ```
 
+### Clear cache
+```
+npm cache clear --force
+```
+
 ### Path to Node-red
 
 #### Windows 
