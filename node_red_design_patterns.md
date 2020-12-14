@@ -24,9 +24,8 @@ npm list -g --depth 0
 ```
 
 ### Install package
-```
-npm install <package>@<version>
-```
+- local packages are installed in the directory where you run ```npm install <package-name>@<version>```, and they are put in the node_modules folder under this directory
+- global packages are all put in a single place in your system (exactly where depends on your setup), regardless of where you run ```npm install -g <package-name>@<version>```
 
 ### See information of lastest package
 ```bash
