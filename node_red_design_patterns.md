@@ -13,6 +13,16 @@
 
 ## NPM Commands
 
+### Manage "node" and "npm" Version
+In the package.json can specify the version or add npm gestor
+```
+"engines": {
+  "node": "6.9.x",
+  "npm": "2.15.x"
+}
+```
+- Reference: https://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring
+
 ### Upgrade "npm"
 ```
 npm install -g npm
