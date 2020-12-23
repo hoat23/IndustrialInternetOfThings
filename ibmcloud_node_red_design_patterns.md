@@ -25,7 +25,8 @@ In the package.json can specify the version or add npm gestor
 - Reference: 
   - https://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring
   - https://github.com/IBM-Cloud/node-helloworld
-
+  - https://stackoverflow.com/questions/58384179/syntaxerror-cannot-use-import-statement-outside-a-module
+  
 ### Install a package with enviroment variables 
 
 #### Installing Twilio
