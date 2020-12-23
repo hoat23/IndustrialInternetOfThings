@@ -22,6 +22,8 @@ In the package.json can specify the version or add npm gestor
 }
 ```
 
+- Reference: https://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring
+
 ### Install a package with enviroment variables 
 
 #### Installing Twilio
@@ -31,7 +33,7 @@ First configure the enviroment variables:
 
 Add ```"twilio-node": "^3.54.1"``` to package.json
 
-- Reference: https://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring
+- Reference: https://www.npmjs.com/package/twilio
 
 ### Upgrade "npm"
 ```
