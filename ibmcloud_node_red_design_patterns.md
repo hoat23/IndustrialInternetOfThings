@@ -22,7 +22,9 @@ In the package.json can specify the version or add npm gestor
 }
 ```
 
-- Reference: https://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring
+- Reference: 
+  - https://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring
+  - https://github.com/IBM-Cloud/node-helloworld
 
 ### Install a package with enviroment variables 
 
