@@ -103,7 +103,7 @@ Just do this for developer mode or install packages, after start like a service 
 - Locate the cursor in the "software" option.
 - Select “Manage Autostart Options” ” and press the bar space to select the option (*).
 - To finish, press "Done". 
-- Reboot the device with command "reboot".
+- Reboot the device with command ```reboot```.
 
 # More information
 
