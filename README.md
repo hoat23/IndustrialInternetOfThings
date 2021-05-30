@@ -280,8 +280,8 @@ If you want to add certificates just follow this steps https://gist.github.com/h
 * Engineering Station: Requirements are hardware and operating system (for additional information, see Readme on the TIA Portal Installation DVDs)
 * SIMATIC STEP 7 Professional software in TIA Portal V15 or higher
 * Software for writing the example image on the SD card, e.g. Win32 Disk Imager
-* Software for SSH access, e.g. PuTTY
-* Software for SFTP/SCP file transfer, e.g. WinSCP
+* Software for SSH access, e.g. PuTTY, MobaXterm.
+* Software for SFTP/SCP file transfer, e.g. WinSCP, MobaXterm.
 * SIMATIC IOT2000 controller, e.g. IOT2040 with MicroSD Card and IO-Shield https://support.industry.siemens.com/cs/document/109741799/imagen-ejemplo-para-la-sd-card-de-un-simatic-iot2020-iot2040?dti=0&lc=es-AR (Yocto Linux Operating System).
 * Ethernet connection between the engineering station and controller
 * SIMATIC IOT2000EDU Software Controller executable on IOT2020 and IOT2040
