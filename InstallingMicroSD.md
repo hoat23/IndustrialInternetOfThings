@@ -77,6 +77,7 @@ iface eth1 inet static
 ```
 - Apply changes ```sudo service networking restart```.
 - You can exit the program again with key combination Ctrl+X. Any changes can be accepted with Y or discarded with N.
+> ping 8.8.8.8 # By check conection to internet
 
 # Configurate nameserver for conection to internet
 - Connect to device using ssh.
