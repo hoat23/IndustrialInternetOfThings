@@ -354,7 +354,7 @@ Comming soon.
 ### Python Code
 
 ```python
-import snap7
+import snap7 #pip install python-snap7
 import struct
 import logging
 from snap7.common import Snap7Library
