@@ -3,6 +3,20 @@
 
 #### View the Module in Library
 
+
+### Testing Pub-Sub in MQTT
+
+#### Listen in topic : "mychannel"
+```
+mosquitto_pub -t "mychannel" -m "hola mundo!"
+```
+
+#### Send message to topic: "mychannel"
+```
+mosquitto_pub -t "mychannel" -m "hola mundo!"
+```
+
+
 #### Publish to cloud broker
 
 Useful Flag Options and Examples
