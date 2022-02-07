@@ -105,6 +105,7 @@ Just do this for developer mode or install packages, after start like a service 
 - Select “Manage Autostart Options” ” and press the bar space to select the option (*).
 - To finish, press "Done". 
 - Reboot the device with command ```reboot```.
+- Connecto from browser to http://192.168.0.33:1880
 
 # More information
 
