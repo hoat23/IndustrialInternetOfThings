@@ -91,6 +91,9 @@ iface eth1 inet static
 Reference: https://support.industry.siemens.com/tf//WW/en/posts/dns-setup-with-fixed-ip/162724?page=0&pageSize=10
 
 # Node-RED 
+## Install
+- If you have node v8, you need install s7 v2.1.1 using this command :
+- ``` npm install -g node-red-contrib-s7@2.1.1``` 
 
 ## Start
 Just do this for developer mode or install packages, after start like a service mode.
