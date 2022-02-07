@@ -113,5 +113,7 @@ Just do this for developer mode or install packages, after start like a service 
 # More information
 
 - https://www.automation.siemens.com/sce-static/learning-training-documents/tia-portal/hw-config-iot2000/sce-014-101-hardware-configuration-iot2000edu-r1806-en.pdf
-
+- https://johanneskinzig.de/index.php/software-development/19-logging-into-simatic-s7-1200-web-api-using-python-client
+- https://github.com/beerfactory/hbmqtt/tree/master/samples
+- https://johanneskinzig.de/index.php/software-development/20-simatic-s7-1200-as-mqtt-client-publisher-role
 
