@@ -85,8 +85,7 @@ iface eth1 inet static
 - Entry: ```nano /etc/resolv.conf```
 - Add "nameserver 8.8.8.8" and  "nameserver 192.168.0.1"
 - Exit the program again with key combination Ctrl+X. Any changes can be accepted with Y.
-- made /etc/resolv.conf immutable with this command: ```chattr -f +i /etc/resolv.conf```
-        - For remove inmutable attribute: ```chattr -a -i /etc/resolv.conf```
+- made /etc/resolv.conf immutable with this command: ```chattr -f +i /etc/resolv.conf```  (  For remove inmutable attribute: ```chattr -a -i /etc/resolv.conf```  )
 - Apply changes ```sudo service networking restart```.
 
 Reference: https://support.industry.siemens.com/tf//WW/en/posts/dns-setup-with-fixed-ip/162724?page=0&pageSize=10
